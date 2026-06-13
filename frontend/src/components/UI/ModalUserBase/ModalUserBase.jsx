@@ -1,0 +1,190 @@
+import React, { useState, useRef, useEffect } from "react";
+import styles from "./ModalUserBase.module.css";
+import AnimatedCheckbox from "../Checkbox/AnimatedCheckbox";
+import MyButton from "../button/MyButton";
+import { Link } from "react-router-dom";
+import { CSSTransition, TransitionGroup } from "react-transition-group";
+
+const ModalUserBase = ({
+  humanData,
+  addSelectedUsers,
+  selectedUsers,
+  setSelectedUsers,
+  authors,
+}) => {
+  const [searchQuery, setSearchQuery] = useState("");
+  const [errors, setErrors] = useState({});
+  const userRefs = useRef([]);
+
+  useEffect(() => {
+    const updatedErrors = {};
+    selectedUsers.forEach((userId) => {
+      const user = humanData.find((user) => user.id === userId);
+      const userFullName = `${user.last_name} ${user.first_name} ${user.middle_name}`;
+      if (user && authors.includes(userFullName)) {
+        updatedErrors[userId] = "Пользователь уже добавлен.";
+      }
+    });
+    setErrors(updatedErrors);
+  }, [selectedUsers, authors, humanData]);
+
+  const handleSearchChange = (e) => {
+    setSearchQuery(e.target.value);
+  };
+
+  const handleUserSelect = (userId) => {
+    const newSelectedUsers = [...selectedUsers];
+    if (newSelectedUsers.includes(userId)) {
+      setSelectedUsers(newSelectedUsers.filter((id) => id !== userId));
+    } else {
+      setSelectedUsers([...newSelectedUsers, userId]);
+    }
+  };
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    const newAuthors = selectedUsers.map((userId) => {
+      const user = humanData.find((user) => user.id === userId);
+      if (!user) return "";
+      return `${user.fio}`;
+    });
+
+    const duplicateErrors = {};
+    newAuthors.forEach((authorName, index) => {
+      if (authors.includes(authorName)) {
+        duplicateErrors[selectedUsers[index]] = "Пользователь уже добавлен.";
+      }
+    });
+
+    if (Object.keys(duplicateErrors).length > 0) {
+      setErrors(duplicateErrors);
+      return;
+    }
+
+    setErrors({});
+    addSelectedUsers(newAuthors.filter((name) => name));
+
+    setSelectedUsers([]);
+  };
+
+  const filteredUsers = humanData.filter((user) => {
+    const searchWords = searchQuery.toLowerCase().split(/\s+/); // Разделяем запрос на отдельные слова
+    const userFields = [
+      user.last_name?.toLowerCase(),
+      user.first_name?.toLowerCase(),
+      user.middle_name?.toLowerCase(),
+      user.birth_date?.toLowerCase(),
+      user.job_title?.toLowerCase(),
+      user.department?.institute?.toLowerCase(),
+      user.department?.name?.toLowerCase(),
+    ].filter(Boolean);
+
+    // Проверяем, чтобы каждое слово из `searchQuery` совпадало с любым из полей пользователя
+    return searchWords.every((word) =>
+      userFields.some((field) => field?.includes(word))
+    );
+  });
+
+  const hasErrors = selectedUsers.some((userId) => errors[userId]);
+
+  const isSubmitDisabled = !selectedUsers.length || hasErrors;
+
+  return (
+    <div className={styles.container}>
+      <div className={styles.titleresult}>
+        <h1>База пользователей</h1>
+      </div>
+      <form onSubmit={handleSubmit}>
+        <input
+          type="text"
+          className={styles.searchInput}
+          placeholder="Поиск пользователей..."
+          value={searchQuery}
+          onChange={handleSearchChange}
+        />
+        <div
+          className={`${styles.tableContainer} ${
+            filteredUsers.length === 0
+              ? `${styles.noScroll} ${styles.noResultsContainer}`
+              : ""
+          }`}
+        >
+          {filteredUsers.length > 0 ? (
+            <>
+              <div className={styles.results}>
+                <TransitionGroup component={null}>
+                  {filteredUsers.map((user) => {
+                    if (!userRefs.current[user.id]) {
+                      userRefs.current[user.id] = React.createRef();
+                    }
+                    return (
+                      <CSSTransition
+                        key={user.id}
+                        timeout={300}
+                        classNames="fade"
+                        nodeRef={userRefs.current[user.id]}
+                      >
+                        <div
+                          ref={userRefs.current[user.id]}
+                          className={`${styles.resultItem} 
+                                                ${
+                                                  selectedUsers.includes(
+                                                    user.id
+                                                  )
+                                                    ? styles.active
+                                                    : ""
+                                                } ${
+                            errors[user.id] ? styles.error : ""
+                          }`}
+                        >
+                          <span className={styles.title}>
+                            {user.last_name} {user.first_name?.[0]}.
+                            {user.middle_name ? `${user.middle_name[0]}.` : ""}
+                          </span>
+                          <span className={styles.details}>
+                            Дата рождения: {user.birth_date || "Не указано"} /{" "}
+                            {user.job_title || "Не указано"} /{" "}
+                            {user.department?.institute || "Не указано"} /{" "}
+                            {user.department?.name || "Не указано"}
+                          </span>
+                          <div className={styles.checkboxContainer}>
+                            <AnimatedCheckbox
+                              checked={selectedUsers.includes(user.id)}
+                              onChange={() => handleUserSelect(user.id)}
+                              hasError={!!errors[user.id]}
+                            />
+                          </div>
+                          {errors[user.id] && (
+                            <span className={styles.errorText}>
+                              {errors[user.id]}
+                            </span>
+                          )}
+                        </div>
+                      </CSSTransition>
+                    );
+                  })}
+                </TransitionGroup>
+              </div>
+            </>
+          ) : (
+            <p className={styles.noResults}>Данные не найдены</p>
+          )}
+        </div>
+        <div className={styles.buttonGroup}>
+          <MyButton type="submit" disabled={isSubmitDisabled}>
+            Добавить участника
+          </MyButton>
+        </div>
+
+        <div className={styles.footerTextContainer}>
+          <p className={styles.footerText}>Не нашли нужного человека?</p>
+          <Link to="/AddParticDB" className={styles.noStyleLink}>
+            <p className={styles.footerLink}>Добавьте его в базу данных</p>
+          </Link>
+        </div>
+      </form>
+    </div>
+  );
+};
+
+export default ModalUserBase;

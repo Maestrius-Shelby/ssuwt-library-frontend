@@ -1,0 +1,588 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+  background-color: #f5f6fa;
+  color: #1c222b;
+}
+
+.grid-container {
+  height: 100vh;
+  display: grid;
+  grid-template-areas:
+    "header"
+    "."
+    "content"
+    "."
+    "sidebar";
+  grid-template-columns: 1fr;
+  grid-template-rows: 80px 5px 1fr 5px 80px;
+}
+
+@media screen and (min-width: 468px) {
+  .grid-container {
+    height: 100vh;
+    display: grid;
+    grid-template-areas:
+      "header header header header header"
+      ". . . . ."
+      "navbar . content . sidebar"
+      ". . . . ."
+      "footer footer footer footer footer";
+    grid-template-columns: 300px 5px 1fr 5px 300px;
+    grid-template-rows: 100px 5px 1fr 5px 90px;
+  }
+}
+
+.header {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  grid-area: header;
+  background-color: #fafbfc;
+  box-shadow: rgba(100, 100, 111, 0.1) 0px 7px 29px 0px;
+  border-radius: 20px;
+  z-index: 1;
+  padding: 0 20px;
+  height: 100px;
+}
+
+input select {
+  font-family: "Montserrat", sans-serif;
+  padding: 8px 12px 8px 12px;
+  height: 40px;
+  border: 1px solid #cbd5e1;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  font-weight: 450;
+  font-size: 15px;
+  width: 100%;
+}
+
+.input {
+  font-family: "Montserrat", sans-serif;
+  padding: 8px 12px;
+  height: 40px;
+  border: 1px solid #cbd5e1;
+  border-radius: 10px;
+  font-weight: 450;
+  font-size: 15px;
+  width: 100%;
+}
+
+.input.error {
+  border-color: red;
+}
+
+.input-container {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.label {
+  font-size: 14px;
+  font-weight: 600;
+  color: #003366;
+  margin-bottom: 5px;
+}
+
+.errorMessage,
+.authError {
+  color: red;
+  font-size: 14px;
+  font-weight: normal;
+  margin-top: 5px;
+}
+
+.password-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.password-toggle {
+  position: absolute;
+  right: 10px;
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+  color: #64748b;
+}
+
+.buttonContainerSide {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.content {
+  grid-area: content;
+}
+
+.backend-server-error {
+  grid-area: content;
+}
+
+.backend-server-error-conteiner {
+  margin: 20px auto;
+  display: flex;
+  width: 900px;
+  border: 1px solid #ff4d4f;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 30px;
+  border-radius: 10px;
+  background-color: #fcfdfd;
+  box-shadow: rgba(100, 100, 111, 0.1) 0px 7px 29px 0px;
+}
+
+.backend-server-error-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.backend-server-error-head {
+  color: #b00000;
+  font-size: 28px;
+  margin: 0;
+  font-weight: 700;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.backend-server-error-desc {
+  font-size: 16px;
+  font-weight: 500;
+  color: #64748b;
+  margin: 3px 0 10px 0;
+  line-height: 1.5;
+  text-align: center;
+  max-width: 600px;
+}
+
+.backend-server-error-icon {
+  width: 100px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.aboutcontainer {
+  margin: 15px 20px 20px 20px;
+  border-radius: 20px;
+  padding: 20px;
+  background-color: #fcfdfd;
+  box-shadow: rgba(100, 100, 111, 0.1) 0px 7px 29px 0px;
+}
+
+.buttomContainerSide {
+  width: 100%;
+  align-items: center;
+  text-decoration: none;
+  margin-top: 20px;
+}
+
+.buttomContainerSide:hover {
+  color: #ffffff;
+}
+
+.EntryLink {
+  color: #003366;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.EntryLink:hover {
+  color: #ffffff;
+}
+
+.sidebar-border {
+  margin-top: 20px;
+  border-radius: 20px;
+  padding: 20px;
+  background-color: #fcfdfd;
+  margin-left: 20px;
+  box-shadow: rgba(100, 100, 111, 0.1) 0px 7px 29px 0px;
+}
+
+.dateUserSection {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  font-weight: 550;
+  font-size: 15px;
+  color: #003366;
+}
+
+.dateUserSection p {
+  margin: 0;
+}
+
+.headerusername {
+  font-weight: 700;
+}
+
+.centerSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contentText {
+  font-size: 16px;
+  width: 70%;
+  margin: 24px auto 0;
+  text-align: justify;
+  font-weight: 500;
+  line-height: 2;
+  text-indent: 32px;
+  color: #595959;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+  color: #003366;
+}
+
+.contentText {
+  font-size: 16px;
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 24px;
+  text-align: justify;
+  font-weight: 500;
+  line-height: 2;
+  text-indent: 32px;
+}
+
+.indented {
+  margin-left: 32px;
+}
+
+.blueLine {
+  width: 60%;
+  margin: 20px auto 0 auto;
+  border: none;
+  height: 1px;
+  background-color: #003366;
+}
+
+.logo {
+  height: 75px;
+  width: 337.5px;
+  object-fit: contain;
+}
+
+.about {
+  margin: 0 auto;
+  padding: 10px;
+  text-align: center;
+  font-weight: 700;
+}
+
+.mainholder .title {
+  margin-top: 20px;
+}
+
+.post {
+  display: flex;
+  padding: 15px;
+  border: 2px solid teal;
+  margin-top: 15px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.post__btns {
+  display: flex;
+}
+
+.post-enter {
+  opacity: 0;
+}
+
+.post-enter-active {
+  opacity: 1;
+  transition: 500ms ease-in;
+}
+
+.post-exit {
+  opacity: 1;
+}
+
+.post-exit-active {
+  opacity: 0;
+  transition: opacity 500ms ease-in;
+}
+
+.page__wrapper {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  display: flex;
+}
+
+.page {
+  padding: 10px;
+  border: 1px solid teal;
+  cursor: pointer;
+}
+
+.page__current {
+  border: 2px solid orange;
+  font-weight: bold;
+}
+
+.author-enter {
+  opacity: 0;
+}
+
+.author-enter-active {
+  opacity: 1;
+  transition: opacity 400ms ease-in;
+}
+
+.author-exit {
+  opacity: 1;
+}
+
+.author-exit-active {
+  opacity: 0;
+  transition: opacity 400ms ease-in;
+}
+
+.modal-enter {
+  opacity: 0;
+  transform: translateY(-20px);
+}
+
+.modal-enter-active {
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity 300ms, transform 300ms;
+}
+
+.modal-exit {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.modal-exit-active {
+  opacity: 0;
+  transform: translateY(-20px);
+  transition: opacity 300ms, transform 300ms;
+}
+
+.fade-enter {
+  opacity: 0;
+}
+
+.fade-enter-active {
+  opacity: 1;
+  transition: opacity 300ms, transform 300ms;
+}
+
+.fade-exit {
+  opacity: 1;
+}
+
+.fade-exit-active {
+  opacity: 0;
+  transition: opacity 300ms, transform 300ms;
+}
+
+.supervisor-enter {
+  opacity: 0;
+}
+
+.supervisor-enter-active {
+  opacity: 1;
+  transition: opacity 400ms, transform 400ms;
+}
+
+.supervisor-exit {
+  opacity: 1;
+}
+
+.supervisor-exit-active {
+  opacity: 0;
+  transition: opacity 400ms, transform 400ms;
+}
+
+.block {
+  flex-direction: column;
+  justify-content: center;
+  /* Центровка контента по вертикали */
+}
+
+.block:not(:last-child) {
+  border-bottom: 1px solid #e2e8f0;
+  /* Линия между блоками */
+}
+
+.nav,
+.work {
+  flex: 0.5;
+}
+
+.exit {
+  flex: 0.2;
+  justify-items: center;
+}
+
+.filterContainer {
+  padding: 20px;
+  margin: -10px 0;
+}
+
+.rightSidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  width: 300px;
+  position: absolute;
+  top: 120px;
+  right: 0;
+}
+
+.filterSearchSection {
+  width: 100%;
+}
+
+.exportOptionsSection {
+  width: 100%;
+}
+
+@media (max-width: 1878px) {
+  .rightSidebar {
+    gap: 25px;
+  }
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 1000;
+  transition: opacity 0.5s ease-in-out;
+  opacity: 1;
+}
+
+.overlay-enter {
+  opacity: 0;
+}
+
+.overlay-enter-active {
+  opacity: 1;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.overlay-exit {
+  opacity: 1;
+}
+
+.overlay-exit-active {
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.overlayActive .filterContainer {
+  pointer-events: none;
+}
+
+.overlayActive .authorContainer,
+.overlayActive .filterGroup {
+  position: relative;
+  z-index: 1000;
+  pointer-events: all;
+}
+
+.highlight {
+  position: relative;
+  z-index: 1001;
+  background-color: rgba(255, 255, 255, 0.2);
+  outline: 2px solid rgba(255, 255, 255, 0.9);
+  box-shadow: 0 0 10px 4px rgba(255, 255, 255, 0.7);
+  border-radius: 5px;
+  transition: background-color 0.5s ease, outline 0.5s ease,
+    box-shadow 0.5s ease, opacity 0.5s ease, transform 0.5s ease,
+    padding 0.5s ease;
+  padding: 8px;
+  opacity: 1;
+  transform: scale(1);
+}
+
+.highlight-red {
+  position: relative;
+  z-index: 1001;
+  background-color: rgba(255, 0, 0, 0.1);
+  outline: 2px solid rgba(255, 0, 0, 0.9);
+  box-shadow: 0 0 10px 4px rgba(255, 0, 0, 0.7);
+  border-radius: 5px;
+  transition: background-color 0.5s ease, outline 0.5s ease,
+    box-shadow 0.5s ease, opacity 0.5s ease, transform 0.5s ease,
+    padding 0.5s ease;
+  padding: 8px;
+  opacity: 1;
+  transform: scale(1);
+}
+
+.highlight-green {
+  position: relative;
+  z-index: 1001;
+  background-color: rgba(0, 255, 0, 0.1);
+  outline: 2px solid rgba(0, 255, 0, 0.9);
+  box-shadow: 0 0 10px 4px rgba(0, 255, 0, 0.7);
+  border-radius: 5px;
+  transition: background-color 0.5s ease, outline 0.5s ease,
+    box-shadow 0.5s ease, opacity 0.5s ease, transform 0.5s ease,
+    padding 0.5s ease;
+  padding: 8px;
+  opacity: 1;
+  transform: scale(1);
+}
+
+.highlightExit {
+  opacity: 1;
+  transform: scale(1);
+  padding: 0;
+  background-color: rgba(255, 255, 255, 0);
+  outline: 2px solid rgba(255, 255, 255, 0);
+  box-shadow: 0 0 10px 4px rgba(255, 255, 255, 0);
+  border-radius: 5px;
+  transition: background-color 0.5s ease, outline 0.5s ease,
+    box-shadow 0.5s ease, opacity 0.5s ease, transform 0.5s ease,
+    padding 0.5s ease;
+}
+
+@keyframes pulseBorder {
+  0% {
+    box-shadow: 0 0 0 0 rgba(0, 255, 0, 0.9); /* Начальный цвет обводки */
+  }
+  50% {
+    box-shadow: 0 0 0 10px rgba(33, 83, 137, 0); /* Расширение обводки */
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(0, 123, 255, 0); /* Исчезновение обводки */
+  }
+}
+
+.activeButtonWrapper {
+  animation: pulseBorder 3s infinite ease-in-out;
+  border-radius: 20px;
+}

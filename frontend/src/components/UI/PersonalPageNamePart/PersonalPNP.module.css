@@ -1,0 +1,104 @@
+.container {
+    margin: 15px 20px 20px 20px;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: #fcfdfd;
+    box-shadow: rgba(100, 100, 111, 0.1) 0px 7px 29px 0px;
+    display: flex;
+    align-items: center;
+    position: relative; /* Устанавливаем позицию для родителя */
+}
+
+.editIcon {
+    stroke: #b3b4b4; 
+    fill: none; /* Убираем заливку, чтобы была только обводка */
+    position: absolute; /* Абсолютное позиционирование относительно контейнера */
+    top: 10px; /* Расположение сверху */
+    right: 10px; /* Расположение справа */
+    cursor: pointer; /* Указатель при наведении */
+    width: 24px; /* Ширина иконки */
+    height: 24px; /* Высота иконки */
+}
+
+.editIcon:hover {
+    stroke: #003366; 
+  }
+
+  .avatar {
+    width: 258px;
+    height: 325px;
+    border-radius: 20px;
+    margin: 0 30px 0 10px;
+    box-shadow: rgba(100, 100, 111, 0.1) 0px 7px 29px 0px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+.avatarImage {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 20px;
+}
+.avatarPlaceholder {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e9e9e9;
+    border-radius: 20px;
+    color: #64748B;
+    font-weight: 600;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+}
+
+.name {
+    font-size: 32px;
+    margin: 0;
+    font-weight: 700;
+    color: #003366;
+    line-height: 1.2;
+    margin-bottom: 5px;
+}
+
+.position {
+    font-size: 18px;
+    font-weight: 700;
+    color: #003366;
+    margin-top: 5px;
+    line-height: 1.2;
+}
+
+.description {
+    font-size: 16px;
+    color: #003366;
+    margin-top: 3px;
+    line-height: 1.2;
+    font-weight: 600;
+}
+
+.label {
+    color: #64748B;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 0;
+    opacity: 1; 
+}
+
+.custom-icon { 
+    stroke: #003366; 
+}
+
+.loadingContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}

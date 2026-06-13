@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Научные материалы</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Список научных материалов</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Название</th>
+                <th>Тип публикации</th>
+                <th>Тематика</th>
+                <th>Рейтинг</th>
+                <th>Издатель</th>
+                <th>Год публикации</th>
+                <th>Количество страниц</th>
+                <th>Институт/Кафедра</th>
+                <th>Прикрепленный файл</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for scientificMaterial in scientificMaterials %}
+                <tr>
+                    <td>{{scientificMaterial.title}}</td>
+                    <td>{{scientificMaterial.publication_type}}</td>
+                    <td>{{scientificMaterial.theme}}</td>
+                    <td>{{scientificMaterial.rating}}</td>
+                    <td>{{scientificMaterial.journal_publisher}}</td>
+                    <td>{{scientificMaterial.publication_year}}</td>
+                    <td>{{scientificMaterial.count_of_pages}}</td>
+                    <td>{{scientificMaterial.department}}</td>
+                    <td>{{scientificMaterial.attached_file}}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

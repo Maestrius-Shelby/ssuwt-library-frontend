@@ -1,0 +1,120 @@
+.container {
+  margin: 15px 20px 20px 20px;
+  border-radius: 20px;
+  padding: 20px;
+  background-color: #fcfdfd;
+  box-shadow: rgba(100, 100, 111, 0.1) 0px 7px 29px 0px;
+  align-items: center;
+  position: relative;
+}
+
+.toptext {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  align-items: center;
+  text-align: center;
+}
+
+.toptext h1 {
+  margin-bottom: 10px;
+}
+
+.toptext p {
+  color: #64748b;
+  font-weight: 500;
+  font-size: 14px;
+  margin-top: 0;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #003366;
+}
+
+.results {
+  display: flex;
+  flex-direction: column;
+}
+
+.resultItem {
+  background: #fff;
+  padding: 15px 20px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.resultItem:hover {
+  background: #f9f9f9;
+  transition: background-color 0.3s;
+}
+
+.resultItem > span {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 14px;
+  color: #333;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 18px;
+  color: #003366;
+}
+
+.year {
+  font-weight: normal;
+  color: #666;
+}
+
+.details {
+  font-size: 14px;
+  color: #555;
+}
+
+.noResults {
+  text-align: center;
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 18px;
+  margin-top: 40px;
+}
+
+.formWrapper {
+  display: block;
+  width: 100%;
+}
+
+.form {
+  margin-top: 20px;
+  width: 100%;
+  position: relative;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.pageButton {
+  background: none;
+  border: 1px solid #ccc;
+  color: #333;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.pageButton:hover {
+  background-color: #003366;
+  color: white;
+}
+
+.pageButton.active {
+  background-color: #003366;
+  color: white;
+}

@@ -1,0 +1,209 @@
+.body {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 550;
+}
+
+.container {
+  background: #fff;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: rgba(100, 100, 111, 0.1) 0px 7px 29px 0px;
+  margin: 5px auto 50px;
+  max-width: 1200px;
+  overflow-y: auto; 
+  overflow-x: hidden; 
+  box-sizing: border-box; 
+}
+.searchCriteria::-webkit-scrollbar {
+  display: none;
+}
+
+.formWrapper {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.formContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.column {
+  width: 48%;
+}
+
+.buttomContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.clearButton {
+  display: block;
+  width: auto;
+  background: none;
+  border: none;
+  color: #5c5c5c;
+  font-size: 13px;
+  cursor: pointer;
+  text-align: center;
+  padding: 0;
+  margin-top: 10px;
+  font-weight: 500;
+  text-decoration: underline
+}
+
+.clearButton:hover {
+  color: rgb(155, 153, 153);
+}
+
+h1 {
+  text-align: center;
+  color: #003366;
+  margin-bottom: 30px;
+}
+
+.formGroup {
+  margin-bottom: 15px;
+}
+
+.label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.inputGroup input:first-child,
+.inputGroup input:last-child {
+  flex: 5;
+  font-weight: 500;
+}
+
+.inputGroup input:not(:first-child):not(:last-child),
+.inputGroup select {
+  flex: 1;
+  font-weight: 500;
+}
+
+.inputGroup {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  max-width: 500px;
+
+}
+
+.inputGroup input,
+.inputGroup select,
+.inputGroup button {
+  padding: 8px 12px 8px 12px;
+  height: 40px;
+  border: 1px solid #CBD5E1;
+  border-radius: 6px;
+  box-sizing: border-box;
+}
+
+.ratingOptions {
+  display: flex;
+  justify-content: space-around;
+}
+
+.ratingOptions label {
+  display: flex;
+  align-items: center;
+}
+
+.authorContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.authorEntry {
+  height: 40px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.authorEntry input {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 450; 
+  height: 40px;
+  flex: 1;
+  padding: 8px 12px 8px 12px;
+  margin-right: 10px;
+  border: 1px solid #CBD5E1;
+  border-radius: 6px;
+}
+
+.supervisorContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.supervisorEntry {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.supervisorEntry input {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 450; 
+  height: 40px;
+  flex: 1;
+  padding: 8px 12px 8px 12px;
+  margin-right: 10px;
+  border: 1px solid #CBD5E1;
+  border-radius: 6px;
+}
+
+.deleteButton {
+  padding: 8px 16px;
+  background-color: #B00000;
+  color: white;
+  font-weight: 500;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  height: 40px;
+  margin-left: 10px;
+}
+
+.deleteButton:hover {
+  background-color: #e60000;
+}
+
+.button {
+  background-color: #003366;
+  border-radius: 8px;
+  border: none;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  height: 35px;
+  padding: 0 20px;
+  align-self: flex-start;
+  align-items: left;
+}
+
+.button:hover {
+  background-color: #024b94;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.custom-option {
+  font-weight: 500;
+  font-family: "Montserrat", sans-serif;
+}

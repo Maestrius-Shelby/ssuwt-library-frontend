@@ -1,0 +1,114 @@
+.uploadContainer {
+  width: 100%;
+  max-width: 700px;
+  margin: 20px auto;
+  display: flex;
+  justify-content: center; 
+  flex-direction: column;
+}
+ 
+.uploadArea {
+  border: 1px dotted #cbd5e1;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+  
+.uploadArea.dragging {
+  background-color: #f4f4f4;
+}
+ 
+.uploadArea.error {
+  border-color: #d60000;
+}
+
+.fileName {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #003366;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px auto 0;
+  color: #003366;
+  font-weight: 600;
+  font-size: 14px;
+  position: relative;
+  transition: border-color 0.3s ease; /* Добавляем плавный переход */
+}
+
+.removeIcon {
+  margin-left: 10px;
+  cursor: pointer;
+  fill: none;
+  stroke: #B00000;
+  transition: stroke 0.3s ease;
+  stroke-linecap: round;
+}
+
+.removeIcon:hover  {
+  stroke: #d60000;
+  transform: scale(1.2); 
+}
+
+
+.errorFileName {
+  color: #d60000;
+}
+
+.cross {
+  stroke-dasharray: 14;
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.3s ease, opacity 0.3s ease;
+}
+
+.errorFileName .cross {
+  stroke: #d60000;
+}
+
+.uploadText p {
+  margin: 10px 0;
+}
+
+.fileFormats {
+  color: #888;
+  font-size: 14px;
+}
+
+.fileInput {
+  display: none;
+}
+
+.errorMessage {
+  margin-top: 10px;
+  color: #d60000;
+  font-size: 14px;
+}
+  
+.customFileButton {
+  background-color: #f1f5f9;
+  color: #1c222b;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  font-weight: 450;
+  border-radius: 10px;
+  display: inline-block;
+  text-align: center;
+}
+
+.customFileButton:hover {
+  background-color: #e2e8f0;
+}
+
+.hiddenFileInput {
+  display: none;
+}
+
+.UploadIcon{
+  width: 22px;
+  height: 22px;
+  display: inline-block; /* Для корректного отображения */
+}

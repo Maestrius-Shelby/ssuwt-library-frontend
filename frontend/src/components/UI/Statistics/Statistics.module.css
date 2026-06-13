@@ -1,0 +1,21 @@
+.contentTitle {
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    color: #003366;
+}
+
+.contentText {
+    font-size: 16px;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 24px;
+    text-align: justify;
+    font-weight: 500;
+    line-height: 2;
+    text-indent: 32px;
+}
+
+.indented {
+    margin-left: 32px;
+}

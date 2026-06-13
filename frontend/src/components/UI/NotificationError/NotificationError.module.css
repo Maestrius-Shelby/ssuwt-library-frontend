@@ -1,0 +1,65 @@
+.notification {
+    position: fixed;
+    bottom: 25px;
+    right: 20px;
+    background-color: #ffffff;
+    border: 1px solid #ff4d4f;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    z-index: 9999;
+    width: 400px;
+    margin: 0;
+}
+
+.notificationEnter {
+    right: -400px;
+}
+
+.notificationEnterActive {
+    right: 20px;
+    transition: right 0.5s ease-in-out;
+}
+
+.notificationExit {
+    right: 20px;
+}
+
+.notificationExitActive {
+    right: -400px;
+    transition: right 0.5s ease-in-out;
+}
+
+.notificationContent {
+    display: flex;
+    align-items: center; 
+    gap: 20px; 
+    height: 100%; 
+}
+
+.notificationIcon {
+    width: 36px;
+    height: 36px;
+}
+
+.notificationText {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    text-align: left; 
+    flex: 1; 
+    color: #64748B;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.notificationHead {
+    font-weight: 700;
+    font-size: 18px;
+    color: #ff4d4f;
+    margin-bottom: 5px;
+}
+
+.notificationText p {
+    margin: 0; 
+}

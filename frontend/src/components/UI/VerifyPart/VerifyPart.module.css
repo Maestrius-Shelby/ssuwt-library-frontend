@@ -1,0 +1,27 @@
+.container {
+    margin: 20px auto;
+    width: 1200px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fcfdfd;
+    box-shadow: rgba(100, 100, 111, 0.1) 0px 7px 29px 0px;
+}
+
+.toptext {
+    display: flex;
+    flex-direction: column; /* Располагаем элементы вертикально */
+    margin-bottom: 20px;
+    align-items: center; /* Центрируем элементы по горизонтали */
+    text-align: center; /* Центрируем текст внутри элементов */
+ }
+  
+.toptext h1 {
+  margin-bottom: 10px; /* Задает отступ между h1 и p */
+}
+  
+.toptext p {
+  color: #64748B;
+  font-weight: 500;
+  font-size: 14px;
+  margin-top: 0; /* Убирает верхний отступ для p */
+}

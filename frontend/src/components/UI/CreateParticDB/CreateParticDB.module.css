@@ -1,0 +1,153 @@
+.body {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 550;
+}
+
+.container {
+  margin: 20px auto;
+  width: 1200px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #fcfdfd;
+  box-shadow: rgba(100, 100, 111, 0.1) 0px 7px 29px 0px;
+}
+
+.horizontalGroup {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.formGroup {
+  flex: 1;
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.toptext {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  align-items: center;
+  text-align: center;
+}
+
+.toptext h1 {
+  margin-bottom: 10px;
+}
+
+.toptext p {
+  color: #64748b;
+  font-weight: 500;
+  font-size: 14px;
+  margin-top: 0;
+}
+
+.pst {
+  color: #64748b;
+  margin-top: 15px;
+  font-weight: 500;
+  font-size: 12px;
+}
+
+.heading {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #003366;
+  font-weight: 700;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.input,
+.select {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 450;
+  padding: 8px 12px 8px 12px;
+  height: 40px;
+  width: 100%;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+}
+
+.inputGroup {
+  display: flex;
+  align-items: center;
+}
+
+.inputGroup input,
+.inputGroup select {
+  flex: 1;
+}
+
+.button {
+  background-color: #003366;
+  border-radius: 8px;
+  border: none;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  height: 30px;
+  width: 100px;
+  margin: 0 auto;
+}
+
+.button:hover {
+  background-color: #024b94;
+}
+
+.note {
+  font-size: 12px;
+  text-align: left;
+  position: absolute;
+  bottom: 10px;
+}
+
+.input.error {
+  border: 1px solid #d60000;
+}
+
+.select.error {
+  border: 1px solid #d60000;
+}
+
+.errorMessage {
+  color: #d60000;
+  font-size: 14px;
+  margin-top: 4px;
+}
+
+.buttomContainer {
+  margin-top: 20px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.formWrapper {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.column {
+  width: 48%;
+}
+
+.required {
+  color: #d60000;
+}

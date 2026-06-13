@@ -1,0 +1,58 @@
+.cardsContainer {
+	display: flex;
+	justify-content: center;
+	gap: 20px;
+	margin: 20px auto;
+	width: calc(100% - 40px);
+	box-sizing: border-box;
+}
+
+h3 {
+	font-weight: 600;
+	font-size: 18px;
+	text-align: left;
+	color: #1c222b;
+}
+
+.card {
+	background: #fff;
+	border-radius: 10px;
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+	flex: 1;
+	padding: 7px 20px;
+}
+
+.cardContent {
+	margin: 10px 0;
+}
+
+.cardValue {
+	font-size: 42px;
+	font-weight: bold;
+	color: #003366;
+}
+
+.raitingtext {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.raitingchange {
+	margin-top: 10px;
+	font-size: 15px;
+	color: #64748B;
+	font-weight: 500;
+}
+
+.arrow {
+	font-size: 4px !important;
+	size: 3 !important;
+}
+
+.negative {
+	color: #d60000;
+}
+
+.positive {
+	color: #1cbb3e;
+}

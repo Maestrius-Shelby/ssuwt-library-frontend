@@ -1,0 +1,19 @@
+{
+  "name": "Онлайн научная библиотека ФГБОУ во СГУВТ",
+  "short_name": "СГУВТ Библиотека",
+  "description": "Централизованное хранилище публикаций и научной активности преподавателей ФГБОУ во СГУВТ",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

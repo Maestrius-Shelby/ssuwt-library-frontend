@@ -1,0 +1,30 @@
+.mydBtn {
+  background-color: #ffffff;
+  border: 1px solid #B00000;
+  border-radius: 20px;
+  color: #B00000;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  height: 40px;
+  padding: 0px 30px;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+}
+
+.mydBtn:hover {
+  background-color: #B00000;
+  border: 1px solid #B00000;
+  color: #ffffff;
+}
+
+.disabledBtn {
+  cursor: not-allowed;
+  border: 1px solid #cfcfcf;
+}
+
+.disabledBtn:hover {
+  background-color: #b0b0b0;
+  border: 1px solid #b0b0b0;
+}

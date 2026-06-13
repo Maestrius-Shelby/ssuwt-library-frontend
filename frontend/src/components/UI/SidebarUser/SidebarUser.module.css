@@ -1,0 +1,82 @@
+.sidebar {
+    display: flex;
+	flex-direction: column;
+}
+
+.sidebarBorder{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 550;
+    margin-top: 20px;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    margin-left: 20px;
+    box-shadow: rgba(100, 100, 111, 0.1) 0px 7px 29px 0px;
+    height:100%;
+}
+
+.nameplace{
+    text-align: center;
+    margin-bottom: 20px;
+    color: #003366;
+}
+
+.link {
+    display: block;
+    width: 95%;
+    height: 20%;
+    margin: 7px 0px;
+}
+
+.alink {
+    box-sizing: border-box;
+    padding: 7px 20px;
+    display: block;
+    text-align: left;
+    align-items: center; 
+    line-height: 30px; 
+    color: #1c222b;
+    text-decoration: none;
+    width: auto; 
+}
+
+.alink:hover {
+    background-color: #f1f5f9;
+    border-radius: 10px;
+}
+
+.active {
+    color: #003366;
+    background-color: #f1f5f9;
+    border-radius: 10px;
+}
+
+.buttonContainerSide {
+    text-align: center;
+    margin-top: 20px;
+    display: flex; 
+    justify-content: center; 
+    width: 100%; 
+}
+
+.aExitBut {
+    font: inherit;
+    font-weight: 550;
+    border: 0;
+    padding: 7px 20px;
+    border-radius: 5px;
+    background-color: transparent;
+    cursor: pointer; 
+    height: 40px;
+}
+
+.aExitBut:hover{
+    border-radius: 20px;
+	font: inherit;
+	font-weight: 550;
+	appearance: none;
+	border: 0;
+	border-radius: 5px;
+    border: none;
+    background-color: #f1f5f9;
+}

@@ -1,0 +1,66 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Specific directories
+backend/ssuwt/__pycache__/
+backend/ssuwt/migrations/__pycache__/
+backend/backend/__pycache__/
+backend/venv
+venv/
+
+.vscode/
+
+postgres_data/
+Database/
+
+backend/parsed_works.json
+# backend/media/documents/*
+# backend/media/avatars/*
+
+backend/ssuwt/export/export_results/*
+
+# dependencies
+frontend/node_modules
+frontend/build
+/.pnp
+
+backend/ssuwt/migrations/*
+!backend/ssuwt/migrations/__init__.py
+.pnp.js
+
+# testing
+/coverage
+
+# production
+frontend/build
+
+# misc
+.DS_Store
+
+# Environment variables (SECRETS - never commit!)
+.env
+.env.*
+!.env.example
+!.env.template
+
+# Local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db

@@ -1,0 +1,78 @@
+[
+    {
+        "title": "АВТОМАТИЗАЦИЯ ПОЛУЧЕНИЯ ИНФОРМАЦИИ СО СТОРОННИХ РЕСУРСОВ...",
+        "authors": [
+            {
+                "fio": "АЛАДКО Е.А.",
+                "relationship_type": 1,
+                "human": 329
+            },
+            {
+                "fio": "ВОЛКОВ А.М.",
+                "relationship_type": 1,
+                "human": 327
+            },
+            {
+                "fio": "ЖУКОВ К.Д.",
+                "relationship_type": 1,
+                "human": 330
+            },
+            {
+                "fio": "МАТРОХИН Д.С.",
+                "relationship_type": 1,
+                "human": 328
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 2,
+                "human": 1
+            }
+        ],
+        "theme": "Вычислительная техника",
+        "journal_publisher": "ИНТЕЛЛЕКТУАЛЬНЫЙ ПОТЕНЦИАЛ НАЦИИ 2024",
+        "publication_year": 2024,
+        "count_of_pages": "119-131",
+        "link": "https://elibrary.ru/item.asp?id=76067883",
+        "publication_type": 1,
+        "rating": 2,
+        "department": 3
+    },
+    {
+        "title": "ВЫСОКОФУНКЦИОНАЛЬНЫЙ WEB-САЙТ ЦЕНТРА ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ...",
+        "authors": [
+            {
+                "fio": "АЛАДКО Е.А.",
+                "relationship_type": 1,
+                "human": 329
+            },
+            {
+                "fio": "ВОЛКОВ А.М.",
+                "relationship_type": 1,
+                "human": 327
+            },
+            {
+                "fio": "ЖУКОВ К.Д.",
+                "relationship_type": 1,
+                "human": 330
+            },
+            {
+                "fio": "МАТРОХИН Д.С.",
+                "relationship_type": 1,
+                "human": 328
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 2,
+                "human": 1
+            }
+        ],
+        "theme": "Вычислительная техника",
+        "journal_publisher": "НАШ ВЫБОР - НАУКА!",
+        "publication_year": 2024,
+        "count_of_pages": "126-138",
+        "link": "https://elibrary.ru/item.asp?id=59990066",
+        "publication_type": 1,
+        "rating": 2,
+        "department": 3
+    }
+]

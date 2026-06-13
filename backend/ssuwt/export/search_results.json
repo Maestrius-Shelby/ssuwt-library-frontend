@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1030,
+        "department": {
+            "id": 1,
+            "institute": "ИИЦТ",
+            "name": "ИТ"
+        },
+        "rating": "Elibrary (низкий рейтинг)",
+        "publication_type": "Учебные издания",
+        "attached_file": "",
+        "authors": [
+            {
+                "human": {
+                    "id": 1,
+                    "fio": "Моторин С.В."
+                },
+                "relationship_type": "Автор",
+                "work": 1030
+            },
+            {
+                "human": {
+                    "id": 2,
+                    "fio": "Голышев Д.Н."
+                },
+                "relationship_type": "Автор",
+                "work": 1030
+            },
+            {
+                "human": {
+                    "id": 3,
+                    "fio": "Жилин А.А."
+                },
+                "relationship_type": "Автор",
+                "work": 1030
+            }
+        ],
+        "title": "Новые материалы для химической промышленности",
+        "theme": "Энергосбережение",
+        "journal_publisher": "Издательство Техно",
+        "publication_year": 1965,
+        "count_of_pages": 236
+    },
+    {
+        "id": 910,
+        "department": {
+            "id": 2,
+            "institute": "ИИЦТ",
+            "name": "ИТМ"
+        },
+        "rating": "Внутреннее (Отчеты, методички и тд)",
+        "publication_type": "Учебные издания",
+        "attached_file": "",
+        "authors": [
+            {
+                "human": {
+                    "id": 1,
+                    "fio": "Моторин С.В."
+                },
+                "relationship_type": "Автор",
+                "work": 910
+            },
+            {
+                "human": {
+                    "id": 4,
+                    "fio": "Рыковский Н.А"
+                },
+                "relationship_type": "Автор",
+                "work": 910
+            }
+        ],
+        "title": "Исследование в области ИТ",
+        "theme": "Машинное обучение",
+        "journal_publisher": "Научный журнал",
+        "publication_year": 1911,
+        "count_of_pages": 334
+    },
+    {
+        "id": 1337,
+        "department": {
+            "id": 2,
+            "institute": "ИИЦТ",
+            "name": "ИТМ"
+        },
+        "rating": "Внутреннее (Отчеты, методички и тд)",
+        "publication_type": "Статья",
+        "attached_file": "",
+        "authors": [
+            {
+                "human": {
+                    "id": 1,
+                    "fio": "Моторин С.В."
+                },
+                "relationship_type": "Автор",
+                "work": 1337
+            },
+            {
+                "human": {
+                    "id": 4,
+                    "fio": "Рыковский Н.А"
+                },
+                "relationship_type": "Автор",
+                "work": 1337
+            },
+            {
+                "human": {
+                    "id": 2,
+                    "fio": "Голышев Д.Н."
+                },
+                "relationship_type": "Автор",
+                "work": 1337
+            },
+            {
+                "human": {
+                    "id": 3,
+                    "fio": "Жилин А.А."
+                },
+                "relationship_type": "Автор",
+                "work": 1337
+            }
+        ],
+        "title": "Исследование в области ПИВА",
+        "theme": "Машинное обучение",
+        "journal_publisher": "Журнал пива",
+        "publication_year": 1911,
+        "count_of_pages": 54
+    },
+    {
+        "id": 1488,
+        "department": {
+            "id": 2,
+            "institute": "ИИЦТ",
+            "name": "ИТМ"
+        },
+        "rating": "Внутреннее (Отчеты, методички и тд)",
+        "publication_type": "Статья",
+        "attached_file": "",
+        "authors": [
+            {
+                "human": {
+                    "id": 1,
+                    "fio": "Моторин С.В."
+                },
+                "relationship_type": "Автор",
+                "work": 1488
+            },
+            {
+                "human": {
+                    "id": 4,
+                    "fio": "Рыковский Н.А"
+                },
+                "relationship_type": "Автор",
+                "work": 1488
+            },
+            {
+                "human": {
+                    "id": 2,
+                    "fio": "Голышев Д.Н."
+                },
+                "relationship_type": "Автор",
+                "work": 1488
+            },
+            {
+                "human": {
+                    "id": 3,
+                    "fio": "Жилин А.А."
+                },
+                "relationship_type": "Автор",
+                "work": 1488
+            }
+        ],
+        "title": "Исследование в области ИТ",
+        "theme": "Машинное обучение",
+        "journal_publisher": "Научный журнал",
+        "publication_year": 1911,
+        "count_of_pages": 13
+    }
+]

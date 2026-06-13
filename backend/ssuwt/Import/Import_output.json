@@ -1,0 +1,5866 @@
+[
+    {
+        "title": "Методические указания к лабораторным работам по курсу «Информатика часть I.» (учебно-методическая разработка)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Новосибирск: Новосиб. Гос. Ак. Вод. Трансп., 2005.- 42 с.",
+        "publication_year": 2005,
+        "count_of_pages": "42",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Методические указания по выполнению выпускных квалификационных работ (учебно-методическая разработка)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Жаров А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Новосибирск: Новосиб. Гос. Ак. Вод. Трансп., 2008.- 30 с.",
+        "publication_year": 2008,
+        "count_of_pages": "30",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Криптографическая защита информации (учебное пособие)",
+        "authors": [
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Новосибирск: Новосиб. Гос. Ак. Вод. Трансп., 2008.- 86 с.",
+        "publication_year": 2008,
+        "count_of_pages": "82",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Технические методы и средства диагностики и лечения (учебное пособие)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Лисицина Л.И.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Белавская С.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Новосибирск: Изд-во НГТУ, 2009, - 224 с.",
+        "publication_year": 2009,
+        "count_of_pages": "224",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Управление данными (учебное пособие)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Новосбирск: Новосиб.гос.акад.вод. трансп., 2013 -150 с.",
+        "publication_year": 2013,
+        "count_of_pages": "150",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Представление знаний в информационных системах (учебное пособие)",
+        "authors": [
+            {
+                "fio": "Матасова Ю.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ботвинков А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Новосбирск: Новосиб.гос.акад.вод. трансп., 2015 -80 с.",
+        "publication_year": 2015,
+        "count_of_pages": "80",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Инфокоммуникационные сети и системы. Учебное пособие.",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Матасова Ю.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ботвинков А.В",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Новосбирск: Новосиб.гос.акад.вод. трансп., 2015 -208 с.",
+        "publication_year": 2015,
+        "count_of_pages": "208",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Основы алгоритмизации. Учебное пособие.",
+        "authors": [
+            {
+                "fio": "Ботвинков А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Катковская К.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Марченко А.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Новосбирск: Новосиб.гос.акад.вод. трансп., 2015 -98 с.",
+        "publication_year": 2015,
+        "count_of_pages": "98",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Специальные методы обработки сигналов и данных (методические указания)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Новосбирск: Сиб.гос.универ.вод. трансп., 2016 - 36 с.",
+        "publication_year": 2016,
+        "count_of_pages": "36",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Моделирование информационно-измерительных и управляющих систем (методические указания)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Новосбирск: Сиб.гос.универ.вод. трансп., 2018 - 60 с.",
+        "publication_year": 2018,
+        "count_of_pages": "60",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Специальные методы обработки сигналов и данных. Учебное пособие.",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Новосбирск: Сиб.гос.универ.вод. трансп., 2020 - 175 с.",
+        "publication_year": 2020,
+        "count_of_pages": "175",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Моделирование систем. Основы разработки имитационной модели системы в среде GPSS World. Учебное пособие.",
+        "authors": [
+            {
+                "fio": "Н.В.Голышев",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Д.Н.Голышев",
+                "relationship_type": 1
+            },
+            {
+                "fio": "К.В.Катковская",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Новосбирск: Сиб.гос.универ.вод. трансп., 2021 – 90 с.",
+        "publication_year": 2021,
+        "count_of_pages": "90",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Информатика. Модели решения функциональных и вычислительных задач. Учебно-методическое пособие.",
+        "authors": [
+            {
+                "fio": "Ботвинков А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рыковский Н.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Новосбирск: Сиб.гос.универ.вод трансп., 2022 - 56 с.",
+        "publication_year": 2022,
+        "count_of_pages": "56",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Жаров, А.В. Организация самостоятельной работы обучающихся по направлению подготовки магистратуры. Учебно-методическое пособие.",
+        "authors": [
+            {
+                "fio": "Жаров А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рыковский Н.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Новосбирск: Сиб.гос.универ.вод. трансп., 2022 - 28 с.",
+        "publication_year": 2022,
+        "count_of_pages": "28",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Методы и средства проектирования информационных систем и технологий. Учебно-методическое пособие",
+        "authors": [
+            {
+                "fio": "Ботвинков А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Катковская К.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Кузнецов М.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Новосбирск: Сиб.гос.универ.вод. трансп., 2023 - 49 с.",
+        "publication_year": 2023,
+        "count_of_pages": "49",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Технологии проектирования информационных систем и технологий. Учебное пособие.",
+        "authors": [
+            {
+                "fio": "Ботвинков А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Новосбирск: Сиб.гос.универ.вод. трансп., 2023 - 120 с.",
+        "publication_year": 2023,
+        "count_of_pages": "120",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Технологии коммутации компьютерных сетей. Учебно-методическое пособие.",
+        "authors": [
+            {
+                "fio": "Вакуленко А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рыковский Н.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Новосбирск: Сиб.гос.универ.вод. трансп., 2023 - 76 с.",
+        "publication_year": 2023,
+        "count_of_pages": "76",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Генератор для калибровки элек-тронной медицинской аппаратуры (инф. лист.)",
+        "authors": [
+            {
+                "fio": "Полубинский В.Л.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Лосев Ю.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Шешуков Е.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Инфоpм.листок.: Новосибиpск, ЦНТИ.-1976.-№ 379-76",
+        "publication_year": 1976,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Анализатор ритма сердечных сокращений (статья)",
+        "authors": [
+            {
+                "fio": "Лосев Ю.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Полубинский В.Л.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Инфоpмационно-измеpительная техника: Межвуз. сб. научн.тp.-Рязань:РТИ.-1978.",
+        "publication_year": 1978,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Автоматизированная система обработки и регистрации сердечного ритма (тезисы)",
+        "authors": [
+            {
+                "fio": "Лосев Ю.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Полубинский В.Л.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Физические методы и вопросы метрологии биомедицинских измерений: Всесоюзн. конф.-М.,1978",
+        "publication_year": 1978,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Измерительная система для оценки статистических характеристик рит-мичности сердца (инф. лист.)",
+        "authors": [
+            {
+                "fio": "Вахитов В.З.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Лосев Ю.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Полубинский В.Л",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Инфоpм. листок.: Новосибиpск, ЦНТИ.-1980.-№ 70-80.",
+        "publication_year": 1980,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Сверхпроводниковый субаттовеберметр (статья)",
+        "authors": [
+            {
+                "fio": "Гоpбовский Н.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Гринберг Я.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Лисицын В.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Петров А.Ю.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Приборы и системы управления.- 1983.-№ 6.",
+        "publication_year": 1983,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Сверхпроводниковый тесламетр с обратной связью по магнитной индукции (тезисы)",
+        "authors": [
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Лисицын В.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Методы и средства измерения параметров магнитного поля:  III Всесоюзн.конф.-Л.,1985.",
+        "publication_year": 1985,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Зонды для сверхпроводниковых систем измерения параметров магнитного поля (тезисы)",
+        "authors": [
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Лисицын В.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Методы и средства измерения параметров магнитного поля: III Всесоюзн.конф.-Л.,1985.",
+        "publication_year": 1985,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Подавление в субаттовебеpметpе \"сильных\" помех промышленной частоты (статья)",
+        "authors": [
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Измерительные информационные системы: Межвуз.сб. научн.тp.-Ново-сибирск: НЭТИ.-1985.",
+        "publication_year": 1985,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Установка для исследования свеpхпpоводниковых гpадиентометpов (статья)",
+        "authors": [
+            {
+                "fio": "Гpинбеpг Я.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Гусев В.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рахманин Б.И.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Измерительно-вычислительные системы. Теория и реализация: Межвуз.сб. научн. тp.-Новосибирск: НЭТИ.-1984.",
+        "publication_year": 1984,
+        "count_of_pages": "17",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Методы уменьшения взаимного влияния каналов в 3-х компонентном свеpхпpоводниковом магнитометре (статья)",
+        "authors": [
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Лисицын В.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Известия вузов. Приборостроение.-1984.-№ 6.",
+        "publication_year": 1984,
+        "count_of_pages": "7",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Трехкомпонентный свеpхпpоводниковый магнитометр (статья)",
+        "authors": [
+            {
+                "fio": "Лисицын В.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Сыpецкий Г.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Приборы и техника экспеpимента.-1985.-№ 3.",
+        "publication_year": 1985,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Динамическое картирование вызванных магнитных полей мозга человека (статья)",
+        "authors": [
+            {
+                "fio": "Журавлев Ю.Е.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Липович А.Я.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Матлашов А.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.\nи др. всего 7 чел.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Доклады АН СССР.-1987.-т.296,№ 1.",
+        "publication_year": 1987,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Исследование сверхпроводникового тесламетра в рабочем эталоне единицы магнитной индукции слабого переменного магнитного поля (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Зотов М.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Щербаков В.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Измерительная техника.-1989.-№ 6",
+        "publication_year": 1989,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Автоматизированный комплекс для измерений слабых магнитных полей (статья)",
+        "authors": [
+            {
+                "fio": "Береснев В.К.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Зотов М.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Гpинбеpг Я.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Приборы и техника  эксперимента.-1989.-№ 4.",
+        "publication_year": 1989,
+        "count_of_pages": "1",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Выбор критериев и алгоритмов автоматической настройки высокочастотных скидов (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Измерительно-вычислительные системы. Теор. и реализация: Межвуз.сб. научн. тp. - Новосибирск: НЭТИ.-1989.",
+        "publication_year": 1989,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Автоматизированный ПТ-СКВИД тесламетр (тезисы)",
+        "authors": [
+            {
+                "fio": "Зотов М.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Проблемы магнитных измерений и магнитоизмерительной аппаратуры: Тез. док.VII Всесоюзн. научн.-техн.конф.-Л.,1989.",
+        "publication_year": 1989,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Исследование сверхпроводникового тесламетра в рабочем эталоне магнитной индукции слабого переменного поля (тезисы)",
+        "authors": [
+            {
+                "fio": "Горст В.Г.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Зотов М.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Щербаков В.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Проблемы магнитных измерений и магнитоизмерительной аппаратуры: Тез. док.VII Всесоюзн. научн.-техн.конф..-Л.,1989.",
+        "publication_year": 1989,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Сравнительный анализ способов введения обратной связи в сверхпроводниковом тесламетре (тезисы)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Проблемы магнитных измерений и магнитоизмерительной аппаратуры: Тез. док.VII Всесоюзн. научн.-техн.конф..-Л.,1989.",
+        "publication_year": 1989,
+        "count_of_pages": "1",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Обратные связи в сверхпроводниковом тесламетре (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Измерительно-вычислительные системы и их элементы. Теория и реализация: Межвуз.сб. научн. тp.- Новосибирск: НЭТИ.-1990.",
+        "publication_year": 1990,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Сверхпроводниковая градиентометрическая система (статья)",
+        "authors": [
+            {
+                "fio": "Гринберг Я.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Измерительно-вычислительные системы и их эле менты. Теория и реализация: Межвуз.сб. нучн. тp.-Новосибирск: НЭТИ.-1990.",
+        "publication_year": 1990,
+        "count_of_pages": "8",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "О спектре выходного сигнала ПТ-сквида (тезисы)",
+        "authors": [
+            {
+                "fio": "Гринберг Я.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Тез. докл. IV Всесоюзн. семинара по функцииональной  магнитоэлектронике. - Красноярск, 1990",
+        "publication_year": 1990,
+        "count_of_pages": "1",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Сравнительный анализ введения обратной связи в сверхпроводниковом тесламетре (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Высокотемпературная сверхпроводимость: Межотр. научн.-техн. сб.-М:ВИНИ,вып.I,1990.",
+        "publication_year": 1990,
+        "count_of_pages": "6",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Сверхпроводниковая измерительная система для магнитоэнцефалографических исследований (тезисы)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Зотов М.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Киселев И.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Микропроцессорные систе-мы автоматики: Тез.докл. II Всесоюзн. конф.-Новосибирск, 1990.",
+        "publication_year": 1990,
+        "count_of_pages": "1",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Оценка гармонических искажений в сквиде постоянного тока (статья)",
+        "authors": [
+            {
+                "fio": "Гринберг Я.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Изв.вузов.Приборостроение.-1991.-№ 4",
+        "publication_year": 1991,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Некоторые аспекты построения магнитокардиографической сверхпроводниковой системы (тезисы)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Кытманов А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Микропроцессорные системы контроля и управления: Материалы Сибир. научн.- техн. конф.-Новосибирск, 1992",
+        "publication_year": 1992,
+        "count_of_pages": "7",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Магнито-электро-эхо-кардиография в оценке изменений миокарда больных ишемической болезнью сердца (тезисы)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Кытманов А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Никитин Ю.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ермакова Э.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Новые методы диагностики и лечения заболеваний: Тез.док.научн. - практ. конф .-Новосибирск, 1993",
+        "publication_year": 1993,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Автоматизация ввода в режим сквид-приборов (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Автометрия.-1993.-№ 1.",
+        "publication_year": 1993,
+        "count_of_pages": "6",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Automatic putting into regime of SQUID devices (статья)",
+        "authors": [
+            {
+                "fio": "N.V.Golyshev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "B.M.Rogachevsky",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Optoelectronics, Instrumenta-tion and Data Processing.-1993.-№ 1.",
+        "publication_year": 1993,
+        "count_of_pages": "6",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Шумы NbN-Nb2O5-Nb сквидов постоянного тока// Автометрия.-1993.-№ 1.",
+        "authors": [
+            {
+                "fio": "Зеленкевич Р.Л.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Комашко В.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Автометрия.-1993.-№ 1.",
+        "publication_year": 1993,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Noise of the NbN-Nb2O5-Nb direct current SQUIDs (статья)",
+        "authors": [
+            {
+                "fio": "R.L.Zelenkevich",
+                "relationship_type": 1
+            },
+            {
+                "fio": "V.A.Komashko",
+                "relationship_type": 1
+            },
+            {
+                "fio": "N.V.Golyshev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "B.M.Rogachevsky",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Optoelectronics, Instrumenta-tion and Data Processing.-1993.-№ 1.",
+        "publication_year": 1993,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Сверхпроводниковый магнитокардиограф (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Береснев В.К.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Перевозчиков С.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Приборы и системы управле-ния.-1993.-№ 5.",
+        "publication_year": 1993,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Harmonic distortions in DC SQUID (докл.)",
+        "authors": [
+            {
+                "fio": "Ya.S.Greenberg",
+                "relationship_type": 1
+            },
+            {
+                "fio": "N.V.Golyshev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "B.M.Rogachevsky",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Proc.Europ.Conf.on Appl. Superconductivity.: Gottingen (Germany), 1993.",
+        "publication_year": 1993,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Noise properties of  NbN-Nb2O5-Nb DC SQUIDs (докл.)",
+        "authors": [
+            {
+                "fio": "R.L.Zelenkevich",
+                "relationship_type": 1
+            },
+            {
+                "fio": "V.A.Komashko",
+                "relationship_type": 1
+            },
+            {
+                "fio": "N.V.Golyshev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "B.M.Rogachevsky",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Proc.Europ.Conf.on Appl. Su-perconductivity.: Gottingen (Germany),1993.",
+        "publication_year": 1993,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Automatic setting of SQUID devices into working regime (докл.)",
+        "authors": [
+            {
+                "fio": "N.V.Golyshev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "B.M.Rogachevsky",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Proc.Europ.Conf.on Appl. Su-perconductivity.: Gottingen (Germany),1993.",
+        "publication_year": 1993,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Superconducting magnetocardiograph (докл.)",
+        "authors": [
+            {
+                "fio": "N.V.Golyshev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "B.M.Rogachevsky",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Proc.Europ.Conf.on Appl. Su-perconductivity.: Gottingen (Germany),1993.",
+        "publication_year": 1993,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Mагнитокардиография и ее роль в диагностике ишемической болезни сердца (тезисы)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Кытманов А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Тез.докл.I Международного конгр. Центральной Азии.: Бишкек,1993.",
+        "publication_year": 1993,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Mагнитокардиография в комплексном клиническом обследовании больных ишемической болезнью сердца (тезисы)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Кытманов А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Цельмин С.Г.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Никитин Ю.П.\nи др. всего7 чел.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Кардиология, успехи, проблемы, задачи: Тез. докл. Всесоюзн. научн конф.-Санкт-Петербург-1993.",
+        "publication_year": 1993,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Магнитокардиография: перспективы применения в кардиологии (статья)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Кытманов А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Никитин Ю.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Актуальные вопросы патоло-гии вн.органов.-Ново-сибирск.-1993. (Научн.тр. Но- восиб. мед.ин-та).т.142.",
+        "publication_year": 1993,
+        "count_of_pages": "6",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Компенсация помех промышленной частоты в сверхпроводниковом магнитокардиографе (статья)",
+        "authors": [
+            {
+                "fio": "Береснев В.К.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Катрук Ю.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Щетинин Ю.И.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Изв.вузов. Приборостроение.-1994.-№ 1",
+        "publication_year": 1994,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Улучшение разрешающей способности приборов на сквидах в области низких частот (тезисы)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Информатика  и проблемы телекоммуникации: Тез. докл. Российской научн.-техн.конф. посв. дню Радио.-Новосибиpск.-1994.",
+        "publication_year": 1994,
+        "count_of_pages": "1",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Магнитокардиография в выявлении нарушений процесса реполяризации у больных ишемической болезнью сердца (тезисы)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Кытманов А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Никитин Ю.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Актуальные вопросы современной медицины: Тез.док.научн.-практ.конф.- Новосибирск,1994.",
+        "publication_year": 1994,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Диагностические возможности МКГ в кардиологии (тезисы)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Никитин Ю.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Кытманов А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Тез. докл. III Республиканского съезда кардиологов Белаpусии.-Минск,1994.",
+        "publication_year": 1994,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Магнитокардиография в кардиологии (статья)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ермакова Э.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Никитин Ю.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Актуальные вопросы развития военно-медицинской службы Сибирского военного округа на совр. этапе. Сб. научн. тp.- Новосибирск.-1994.",
+        "publication_year": 1994,
+        "count_of_pages": "1",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Magnetocardiography in detection of ventricular repolarisation abnormallities inpatiets with coronary heart disease (тезисы)",
+        "authors": [
+            {
+                "fio": "Yu.P.Nikitin",
+                "relationship_type": 1
+            },
+            {
+                "fio": "A.V.Shabalin",
+                "relationship_type": 1
+            },
+            {
+                "fio": "N.V.Golyshev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "B.M.Rogachevsky",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "X-th Internat.Symps. on Atherosclerosis.: Montreal (Canada),1994",
+        "publication_year": 1994,
+        "count_of_pages": "1",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "ВТСП измеритель ослабления электромагнитных колебаний радиочастотного диапазона (тезисы)",
+        "authors": [
+            {
+                "fio": "Гринберг Я.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Маркин А.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Фирсов Н.И.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Актуальные проблемы электронного приборостроения: Вторая междунар. научно-тех. конф. Новосибирск,1994",
+        "publication_year": 1994,
+        "count_of_pages": "1",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Using Magnetocardiograpfy in Clinical Cardiology (тезисы)",
+        "authors": [
+            {
+                "fio": "Yu.P.Nikitin",
+                "relationship_type": 1
+            },
+            {
+                "fio": "A.V.Shabalin",
+                "relationship_type": 1
+            },
+            {
+                "fio": "N.V.Golyshev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "B.M.Rogachevsky",
+                "relationship_type": 1
+            },
+            {
+                "fio": "A.V.Kitmanov",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "First Regional Conf. of the IEEE Enginering in Medicine: New Delhi (India),1995.",
+        "publication_year": 1995,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Диагностические возможности МКГ при профилактических обследованиях (тезисы)",
+        "authors": [
+            {
+                "fio": "Кытманов А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Никитин Ю.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.\nи др. всего 7 чел",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Пробл. безоп. труда, экол. и чрезв. ситуаций на железнодорожном транспорте: Тез. докл. российской научн. практ. конф.-Новосибирск, 1995.",
+        "publication_year": 1995,
+        "count_of_pages": "1",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Магнитокардиография для определения постинфарктной ишемии миокарда (тезисы)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Цельмин С.Г.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Тез. международного конгресса. Кардиостим-95.-СПб,1995.",
+        "publication_year": 1995,
+        "count_of_pages": "1",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Применение манитокардиографии в диагностике \"гипертонического сердца\" у больных артериальной гипертонией (тезисы)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Кытманов А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Никитин Ю.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Цельмин С.Г.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "и др. всего 7 чел.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Актуальные вопросы современной медицины: Тез.док.научн.-практ. конф.-Новосибирск, 1995.",
+        "publication_year": 1995,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Диагностические возможности магнито-кардиографии в оценке изменений сердца у больных перенесших инфаркт миокарда (тезисы)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Кытманов А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Никитин Ю.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Цельмин С.Г.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "и др. всего 7 чел.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Актуальные вопросы современной медицины: Тез.док.научн.-практ. конф.-Новосибирск, 1995.",
+        "publication_year": 1995,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Магнито-электpо-эхогpафия в оценке изменений сердца у больных перенесших инфаркт миокарда (статья)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Кытманов А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Никитин Ю.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Цельмин С.Г.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Каpдиология.-1995.-№  9",
+        "publication_year": 1995,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Сверхпроводниковые магнитокаpдиогpафические системы (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Медицинская техника.- 1995.-№  3",
+        "publication_year": 1995,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Магнитокаpдиогpафические исследования в клинической диагностике сердечных патологий (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Медицинская техника.- 1995.-№  4",
+        "publication_year": 1995,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Диагностические возможности МКГ в комплексном обследовании больных каpдиомиопатиями (статья)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Кытманов А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Никитин Ю.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Цельмин С.Г.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "и др. всего 7 чел.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Терапевтический архив.- 1995.-№ 8",
+        "publication_year": 1995,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "МКГ в комплексном клиническом об-следовании больных ИБС (статья)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Кытманов А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Никитин Ю.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Цельмин С.Г.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Каpдиология.-1995.-№  4",
+        "publication_year": 1995,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Эхокардиографическая диагностика \"гипертонического сердца\" у больных артериальной гипертонией, сравнение с данными магнито- и электрокардиографии (тезисы)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Кытманов А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Никитин Ю.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Цельмин С.Г.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "и др. всего 7 чел.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Тез.докл.2-го съезда ассоциации специалистов ультра-звуковой диагностики в медицине.-М., 1995.",
+        "publication_year": 1995,
+        "count_of_pages": "1",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Mагнитокардиография и ее роль в диагностике ишемической болезни сердца (тезисы)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Никитин Ю.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Цельмин С.Г.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ермакова Э.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Тез. докл. II Междунар. конгр. Центральной Азии.: Алма-ты,1995.",
+        "publication_year": 1995,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Сверхпроводниковый магнитокардиограф и его клиническое применение (докл.)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Радиоэлектроника в медицинской диагностике: Докл. Междунар. конф.-М.,1995.",
+        "publication_year": 1995,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "О выборе оптимальной полосы про-пускания сверхпроводникового магнитокардиографа (докл.)",
+        "authors": [
+            {
+                "fio": "Гринберг Я.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Радиоэлектроника в медицинской диагностике: Докл .Междунар. конф.-М.,1995.",
+        "publication_year": 1995,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Сопоставление данных магнитокардиографии с результатами электро- и эхокардиографии у больных хроническим алкоголизмом (тезисы)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Кытманов А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Цельмин С.Г.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ермакова Э.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Тез. докл. научн. сессии сотрудников НМИ.- Новосибирск,1995.",
+        "publication_year": 1995,
+        "count_of_pages": "1",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Магнитокардиография при стенокардии  (тезисы)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Кытманов А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Цельмин С.Г.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ермакова Э.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Тез. докл. научн. сессии сотрудников НМИ.- Новосибирск,1995.",
+        "publication_year": 1995,
+        "count_of_pages": "1",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Возможности МКГ в выявлении ги-пертрофического ремоделирования миокарда левого желудочка у больных артериальной гипертонией (докл.)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Никитин Ю.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Цельмин С.Г.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ермакова Э.Н.\nи др. всего 8 чел.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Современные аспекты арте-риальных гипертензий: Докл. Всероссийской научн.конф.- СПб,1995.",
+        "publication_year": 1995,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Магнитокардиография и клиникоин-струментальные данные у больных с некоторыми наследственными заболеваниями сердечно-сосудистой системы (статья)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Лисиченко О.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Никитин Ю.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Цельмин С.Г.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Бюллетень СО РАМН.-1995.-№- 4",
+        "publication_year": 1995,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "The Use of a Current Feedback Loop for Active Compensation of Magnetic Noise in Superconducting Magneto-cardiograph (докл.)",
+        "authors": [
+            {
+                "fio": "N.V.Golyschev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "B.M.Rogachevsky",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ya.S.Greenberg",
+                "relationship_type": 1
+            },
+            {
+                "fio": "A.V.Shabalin",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Proceedings of the Tenth Inter-national Conference on Bio-magnetism: Biomag96. -Santa Fe, New Mexico (USA),1996.",
+        "publication_year": 1996,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Comparative data on magnetocardiography and clinical-instrumental methods of investigation when some hereditary cardio-vascular diseases (докл.)",
+        "authors": [
+            {
+                "fio": "A.V.Shabalin",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Yu.P.Nikitin",
+                "relationship_type": 1
+            },
+            {
+                "fio": "N.V.Golyschev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "O.V.Lisichenko",
+                "relationship_type": 1
+            },
+            {
+                "fio": "S.G.Zelmin",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Proceedings of the Tenth Inter-national Conference on Bio-magnetism: Biomag96. -Santa Fe, New Mexico (USA),1996.",
+        "publication_year": 1996,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Magnetocardiography and other methods of investigation in diagnostics of heart remodeling after myocardial infarction and in hypertension (докл.)",
+        "authors": [
+            {
+                "fio": "A.V.Shabalin",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Yu.P.Nikitin",
+                "relationship_type": 1
+            },
+            {
+                "fio": "N.V.Golyschev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "O.V.Lisichenko",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Proceedings of the Tenth Inter-national Conference on Bio-magnetism: Biomag96. -Santa Fe, New Mexico (USA),1996.",
+        "publication_year": 1996,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "The Use of  Software Magnetometers for y Ambient Magnetic Noise Cancel-lation in Unshielded Environment  (докл.)",
+        "authors": [
+            {
+                "fio": "N.V.Golyschev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "B.M.Rogachevsky",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ya.S.Greenberg",
+                "relationship_type": 1
+            },
+            {
+                "fio": "A.V.Shabalin",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Proceedings of the Tenth Inter-national Conference on Bio-magnetism: Biomag96. -Santa Fe, New Mexico (USA),1996.",
+        "publication_year": 1996,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Применение сверхпроводниковых измерительных систем в магниткардиографических исследованиях (докл.)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.\nГолышев Н.В.\nРогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Внедр. нов. техн. и нов. метод. в диагност. и лечение в практ. Здравоохран.: Докл. регион. научно-техн. конф.-Новосибирск,1996.",
+        "publication_year": 1996,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Сравнительная оценка информативности магниитокардиографии и электро-, эхокардиографических методов у больных, перенесших инфаркт миокарда и со стенокардией напряжения (статья)",
+        "authors": [
+            {
+                "fio": "Никитин Ю.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.\nЦельмин С.Г.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Лисиченко О.В.\nи др. всего 7 чел.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Кардиология.- 1996.-т.36, № 5",
+        "publication_year": 1996,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Опыт использования магнитокардиографии в клинических исследованиях (тезисы)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Никитин Ю.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.\nЦельмин С.Г.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Лисиченко О.В.\nи др. всего 7 чел.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Актуальные вопросы совре-менной медицины: Тез. док.научн. -практ. конф.-Новосибирск, 1996.-т.2",
+        "publication_year": 1996,
+        "count_of_pages": "1",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Возможности метода магнитокардиографии в диагностике гипертрофии миокарда камер сердца у больных с клапанными пороками сердца (тезисы)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Бачурина О.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Цельмин С.Г.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Лисиченко О.В.\nи др. всего 7 чел.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Актуальные вопросы совре-менной медицины: Тез. док.научн. -практ. конф.-Новосибирск, 1996.-т.2",
+        "publication_year": 1996,
+        "count_of_pages": "1",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Магнито-, электро- и эхокардиографические методы в выявлении при-знаков “гипертониического сердца” (статья)",
+        "authors": [
+            {
+                "fio": "Никитин Ю.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В. и др.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Клиническая медицина.-1996.-№ 5.",
+        "publication_year": 1996,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Дрейф нуля в сверхпроводниковом тесламетре (докл.)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Актуальные проблемы электронного приборостроения “АПЭП-96”: Труды Третьей междунар. научн.-техн. конф.- Новосибирск,1996.",
+        "publication_year": 1996,
+        "count_of_pages": "7",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Метод подавления магнитных помех промышленной частоты в сверхпроводниковых системах (докл.)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Актуальные проблемы электронного приборостроения “АПЭП-96”: Труды Третьей междунар. научн.-техн. конф.- Новосибирск,1996.",
+        "publication_year": 1996,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Восстановление магнитного поля по результатам измерения его пространственного градиента (докл.)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Актуальные проблемы электронного приборостроения “АПЭП-96”: Труды Третьей междунар. научн.-техн. конф.- Новосибирск,1996.",
+        "publication_year": 1996,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Частотозависимая обратная связь в сверхпроводниковом тесламетре (докл.)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Актуальные проблемы электронного приборостроения “АПЭП-96”: Труды Третьей междунар. научн.-техн. конф.- Новосибирск,1996.",
+        "publication_year": 1996,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Магнитокардиограф в клинической диагностике (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Автометрия.-1996.-№ 6.",
+        "publication_year": 1996,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Способ восстановления магнитного поля, измеренного магнитокардиографом с градиентометрическим входным преобразователем (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Автометрия.-1996.-№ 6.",
+        "publication_year": 1996,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Анализ низкочастотного дрейфа в сверхпроводниковом тесламетре (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Автометрия.-1996.-№ 6.",
+        "publication_year": 1996,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Информативность магнитокардиографии в диагностике заболеваний сердца у людей (тезисы)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Автометрия.-1996.-№ 6.",
+        "publication_year": 1996,
+        "count_of_pages": "10",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Информативность магнитокардиографии в диагностике заболеваний сердца у людей (тезисы)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Никитин Ю.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "V Всероссийский съезд кардиологов: Тез. докл. - Челябинск, 1996.",
+        "publication_year": 1996,
+        "count_of_pages": "1",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Magnetocardiographs in Clinical Diagnostics (статья)",
+        "authors": [
+            {
+                "fio": "N.V.Golyschev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "A.V.Shabalin",
+                "relationship_type": 1
+            },
+            {
+                "fio": "B.M.Rogachevsky",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Optoelectronics, Instrumenta-tionand Data Processing.-1996.-№ 6.",
+        "publication_year": 1996,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Superconducting Teslameter Unsensitive to Low-Frequency Magnetic Interferences (статья)",
+        "authors": [
+            {
+                "fio": "N.V.Golyschev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "A.V.Shabalin",
+                "relationship_type": 1
+            },
+            {
+                "fio": "B.M.Rogachevsky",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Optoelectronics, Instrumenta-tionand Data Processing.-1996.-№ 6.",
+        "publication_year": 1996,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Restoration of  Magnetic Field  measured by a Magnetocardiograph with a Gradiometric Input Transducer (статья)",
+        "authors": [
+            {
+                "fio": "N.V.Golyschev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "B.M.Rogachevsky",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Optoelectronics, Instrumenta-tionand Data Processing.-1996.-№ 6.",
+        "publication_year": 1996,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Analysis of Low Frequen-cy Drift in a Superconducting Teslameter (статья)",
+        "authors": [
+            {
+                "fio": "N.V.Golyschev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Optoelectronics, Instrumenta-tionand Data Processing.-1996.-№ 6.",
+        "publication_year": 1996,
+        "count_of_pages": "9",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Метрологическое обеспечение магнитокардиографических исследований (тезисы)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "“Информатика и проблемы телекоммуникации”: Тез. Российской научно-тех. конф.-Новосибирск,1997",
+        "publication_year": 1997,
+        "count_of_pages": "1",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "The Choice of the Optimum Bandwidth of a Superconducting Magnetocardiograph (докл.)",
+        "authors": [
+            {
+                "fio": "Ya.S.Greenberg",
+                "relationship_type": 1
+            },
+            {
+                "fio": "N.V.Golyschev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "6th Int. Superconductive Elec-tronics Conference: ISEC97-Berlin(Germany), 1997",
+        "publication_year": 1997,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "The Software for the Calculation of the Output Signal and Noise Characteris tics of SQUID Readout Electronics (докл.)",
+        "authors": [
+            {
+                "fio": "Ya.S.Greenberg",
+                "relationship_type": 1
+            },
+            {
+                "fio": "N.V.Golyschev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "6th Int. Superconductive Elec-tronics Conference: ISEC97-Berlin(Germany), 1997",
+        "publication_year": 1997,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Повышение точности восстановления магнитного поля в магнитокардиографии (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Труды межд.науч.-техн. конф.: Научные основы высоких технол.-Новосибирск, 1997.",
+        "publication_year": 1997,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Metrological Support for Magnetocar-diographic Studies (тезисы)",
+        "authors": [
+            {
+                "fio": "N.V.Golyschev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Abstracts the first Korea-Russia International Symposium on Science and Technology: KORUS’97-Ulsan(Korea), 1997",
+        "publication_year": 1997,
+        "count_of_pages": "1",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Сверхпроводниковые биомагнитные системы (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сибирский научный вестник.-1997.-вып.1",
+        "publication_year": 1997,
+        "count_of_pages": "9",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Принцип подавления магнитных помех в сверхпроводниковых биомагнитных системах (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сибирский научный вестник.-1997.-вып.1",
+        "publication_year": 1997,
+        "count_of_pages": "9",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Магниокардиографическая диагностика гипертрофии миокарда у больных пороками сердца (статья)",
+        "authors": [
+            {
+                "fio": "Никитин Ю.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Цельмин С.Г.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Лисиченко О.В.\nи др. всего 7 чел.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Кардиология.- 1997.-№ 9",
+        "publication_year": 1997,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Шумы сквида вида , вызванные флуктуациями критического тока джозефсоновских переходов (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Гринберг Я.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сибирский научный вестник.-1998.-вып.2",
+        "publication_year": 1998,
+        "count_of_pages": "7",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Схемотехнические методы подавления шумов вида  в сквидах (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Гринберг Я.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Пудов В.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сибирский научный вестник.-1998.-вып.2",
+        "publication_year": 1998,
+        "count_of_pages": "7",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Повышение диагностических возможностей магнитокардиографа (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Медицинская техника.- 1998.-№ 3",
+        "publication_year": 1998,
+        "count_of_pages": "",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Upgrading of a superconducting mag-netocardiograph for application in a hospital environments (тезисы)",
+        "authors": [
+            {
+                "fio": "Yu.P.Nikitin",
+                "relationship_type": 1
+            },
+            {
+                "fio": "N.V.Golyschev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "A.V.Shabalin",
+                "relationship_type": 1
+            },
+            {
+                "fio": "O.V.Lisichenko",
+                "relationship_type": 1
+            },
+            {
+                "fio": "S.G.Zelmin",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "11-th International Conference on Biomagnetism: Biomag98.-Sendai (Japan), 1998.",
+        "publication_year": 1998,
+        "count_of_pages": "1",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Magnetocardiography in verification of myocardial hypertrophy in patients with valvular heart disease (тезисы)",
+        "authors": [
+            {
+                "fio": "Yu.P.Nikitin",
+                "relationship_type": 1
+            },
+            {
+                "fio": "N.V.Golyschev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "A.V.Shabalin",
+                "relationship_type": 1
+            },
+            {
+                "fio": "O.V.Lisichenko",
+                "relationship_type": 1
+            },
+            {
+                "fio": "S.G.Zelmin",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "11-th International Conference on Biomagnetism: Biomag98.-Sendai (Japan), 1998.",
+        "publication_year": 1998,
+        "count_of_pages": "1",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Метод анализа влияния внешних помех на входной преобразователь биомагнитной системы (докл.)",
+        "authors": [
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Пудов В.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Актуальные проблемы электронного приборостроения: IV междунар. Науч.тех.конф.: АПЭП-98.-Новосиб.,1998- т.9",
+        "publication_year": 1998,
+        "count_of_pages": "6",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Метод анализа шумовых параметров входных цепей (докл.)",
+        "authors": [
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Пудов В.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Актуальные проблемы электронного приборостроения: IV междунар. Науч.тех.конф.: АПЭП-98.-Новосиб.,1998- т.9",
+        "publication_year": 1998,
+        "count_of_pages": "6",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Программное обеспечение для со-здания базы данных магнитокарт (тезисы)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Пудов В.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Информатика и проблемы телекоммуникации: Междунар. научно-тех.конф. тез.докл.-Новосибирск, 1998.",
+        "publication_year": 1998,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Метод измерения взаимной индук-тивности сквида с трансформатором магнитного потока (тезисы)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Информатика и проблемы телекоммуникации: Междунар. научно-тех.конф. тез.докл.-Новосибирск, 1998.",
+        "publication_year": 1998,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Инновационная деятельность преподавателей и профессиональная подготовка врачей (тезисы)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Полубинский В.Л.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "II Международная научно –методическая конференция. Качество образования. Проблемы оценки. Управление. Опыт. Тез. докл. – Новосибирск.-1999",
+        "publication_year": 1999,
+        "count_of_pages": "1",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Возможности магнитокардиографии при оценке риска внезапной сердечной смерти (докл.)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Пудов В.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "III-я Межд. конф. Радиоэлектроника в медицинской диагностике. - Москва.- 1999",
+        "publication_year": 1999,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Сверхпроводниковая система для биомагнитных исследований(тезисы)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Пудов В.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "III-я Межд. конф. Радиоэлектроника в медицинской диагностике. - Москва.- 1999",
+        "publication_year": 1999,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Анализ возможностей применения сверхпроводниковых систем с пространственно-распределенными входными преобразователями для локализации источников биомагнитных сигналов (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Пудов В.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сибирский научный вестник.-1999.-вып.3.",
+        "publication_year": 1999,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Анализ искажений в биомагнитных системах, обусловленных наличием референтных каналов (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Пудов В.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сибирский научный вестник.-1999.-вып.3.",
+        "publication_year": 1999,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Использование магнитокардиографического метода в кардиологии (новые методические подходы) (статья)",
+        "authors": [
+            {
+                "fio": "Никитин Ю.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Российский кардиологический журнал.-2000.-№3",
+        "publication_year": 2000,
+        "count_of_pages": "10",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Сравнительный анализ методов решения задачи локализации источников магнитного поля в магнитокардиографии (докл.)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "V Межд. научн.-техн. конф.: Актуальные пробл. электронного приборостр. - АПЭП-2000.–Новосибирск, 2000.-Т.5. С. 69-75.",
+        "publication_year": 2000,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Исследование факторов, влияющих на точность калибровки градиентометрического преобразователя (докл.)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "V Межд. научн.-техн. конф.: Актуальные пробл. электронного приборостр. - АПЭП-2000.–Новосибирск, 2000.-Т.5. С. 161-164.",
+        "publication_year": 2000,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Особенности технологии магнитокардиографических исследований при использовании градиентометрических входных преобразователей (доклад)",
+        "authors": [
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Межд. научн.-техн. конф.: Информационные системы и технологии. – ИСТ-2000. - Новосибирск, 2000. - Т.1.- С.127-134",
+        "publication_year": 2000,
+        "count_of_pages": "6",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Технология проведения магнитокардиографических исследований (статья)",
+        "authors": [
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Автометрия.-2000.-№ 6 - С. 94-112.",
+        "publication_year": 2000,
+        "count_of_pages": "16",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Magnetocardiograchic study technology (статья)",
+        "authors": [
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Optoelectronics, Instrumentation and Data Processing.-2000.-№ 6. - С. 82-97",
+        "publication_year": 2000,
+        "count_of_pages": "14",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Сравнительный анализ параметров дисперсии корригированного и не корригированного интервала QT, полученных при помощи магнито- и электрокардиографии (статья)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Бертенёва Т.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Кузнецов А.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Кардиология.-2001",
+        "publication_year": 2001,
+        "count_of_pages": "1",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Ассоциация параметров дисперсии интервала QT методом магнито- и электрокардиографии и числа полярностей изомагнитных карт с ИБС (тезисы)",
+        "authors": [
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Третьякова Т.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Кузнецов А.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "\"Современные методы диагностики заболеваний сердечно-сосудистой системы\": тез. доклад IV-й Всероссийской научно-практической конференции - Новосибирск, 2001. - С.121-122.",
+        "publication_year": 2001,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Comparative Analyses of Parameters of Corrected and Unconnected QT-interval Dispersion of Magneto-, Electrocardiography and Isomagnetic Maps in Patients with Ischemic Heart Disease (статья)",
+        "authors": [
+            {
+                "fio": "A.V.Shabalin",
+                "relationship_type": 1
+            },
+            {
+                "fio": "T.V.Tretiakova",
+                "relationship_type": 1
+            },
+            {
+                "fio": "A.A.Kuznetsov",
+                "relationship_type": 1
+            },
+            {
+                "fio": "N.V.Golyshev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Кардиология. 2002.- Т. 42. № 2. - С.20-23",
+        "publication_year": 2002,
+        "count_of_pages": "31",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Spatial-spectral approach to localize late potentials (тезисы)",
+        "authors": [
+            {
+                "fio": "V.S.Pudov",
+                "relationship_type": 1
+            },
+            {
+                "fio": "N.V.Golyshev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "D.N.Golyshev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Proc. 6th Int. Symposium On Science and Technology KORUS-2002. – Novosibirsk.- С. 475-478.",
+        "publication_year": 2002,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Метод повышения эффективности обнаружения и локализации поздних потенциалов в магнитокардиографии (доклад)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Пудов В.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Мат. III межд. науч.-техн. конф. “Измерение, контроль, информатизация - 2002”.- Барнаул.- С.79-80",
+        "publication_year": 2002,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Spatial Spectral Approach to the Diagnostics Problems in MCG (доклад)",
+        "authors": [
+            {
+                "fio": "N.V.Golyshev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "V.S.Pudov",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ya.S.Greenberg",
+                "relationship_type": 1
+            },
+            {
+                "fio": "D.N.Golyshev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Proc. 13th Int. Conference Biomag-2002. – Jena, Germany.- P. 521-523.",
+        "publication_year": 2002,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "The increase of reliability of diagnostic algorithms for clinical magnetocardiograph",
+        "authors": [
+            {
+                "fio": "N.V.Golyshev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "V.S.Pudov",
+                "relationship_type": 1
+            },
+            {
+                "fio": "D.N.Golyshev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сборник: International Workshop and Tutorials on Electron Devices and Materials EDM. Proceedings. 2003. С. 112-118.",
+        "publication_year": 2003,
+        "count_of_pages": "7",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Информационная система поддержки принятия решений (ИСППР) в магнитокардиографии (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сибирский научный вестник.-2003.-вып.6.- С. 174-179",
+        "publication_year": 2003,
+        "count_of_pages": "6",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Проблемы и перспективы использования нейронных сетей в решении сельскохозяйственных задач (доклад)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Мат. межд. научн.-прак. конф.: Информ. Технолог., информ.-измерительн. системы и приборы в исслед. сельскохз. процес. - АГРОИНФО-2003.РАСХН. Сиб. Отделение. - Новосибирск, 2003. - Ч. 2.- С. 127-129.",
+        "publication_year": 2003,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Использование нейронных сетей для решения задач прогнозирования",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сибирский научный вестник.-2003.-вып.6- С. 179-181",
+        "publication_year": 2003,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Концептуальный подход в создании информациионно-диагностической системы органов дыхания (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Иванова М.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сибирский научный вестник.-2004.-вып.7. - С. 169-171",
+        "publication_year": 2004,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Входной преобразователь сверхпроводниковой биомагнитной системы (доклад)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "VII Межд. научн.-техн. конф.: Актуальные пробл. электронного приборостр. - АПЭП-2004.–Новосибирск, 2004.-Т.5 - С.139-141.",
+        "publication_year": 2004,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Концепция создания скрининговой диагностической системы органов дыхания (доклад)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.\nГолышев Д.Н.\nИванова М.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "VII Межд. научн.-техн. конф.: Актуальные пробл. электронного приборостр. -АПЭП-2004.–Новосибирск, 2004.-Т.5. – С. 142-144.",
+        "publication_year": 2004,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Повышение достоверности исходных данных в информационно-диагностической сверхпроводниковой магнитокардиографической системе (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сибирский научный вестник.-2005.-вып.8- С. 165-169",
+        "publication_year": 2005,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Перспективы внедрения современных информационных технологий на водном транспорте (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сибирский научный вестник.-2006.-вып.9- С. 287-291",
+        "publication_year": 2006,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Информационное обеспечение камеральных работ на внутренних водных путях (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сибирский научный вестник.-2007.-вып. 10. - С. 441-448.",
+        "publication_year": 2007,
+        "count_of_pages": "9",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Моделирование процесса изысканий на внутренних водных путях (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ботвинков В.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сибирский научный вестник.-2007.-вып. 10. - С. 436-440.",
+        "publication_year": 2007,
+        "count_of_pages": "6",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Информационно-измерительная система контроля за вертикальной подвижностью швартовочных стен причалов (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сибирский научный вестник.-2008.- Вып. ХI. - С. 207-210.",
+        "publication_year": 2008,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Clinical Decisions Support Information System (доклад)",
+        "authors": [
+            {
+                "fio": "N.V.Golyshev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "A.S.Afanasyeva",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "2008  9TN International Conference on Actual Problems of Electronic Instrument engineering Proceedings.- APEIE-2008.- Novosibirsk, 2008.-V.1. - С. 93-95.",
+        "publication_year": 2008,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Критерии оценки достоверности результатов работы алгоритмов определения длительности QT-интервала по холтеровской записи (доклад)",
+        "authors": [
+            {
+                "fio": "Рычковский А.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Труды IX Межд. научн.-техн. конф.: Актуальные пробл. электронного приборостр. -АПЭП-2008.–Новосибирск, 2008.-Т.5.- С. 108-111.",
+        "publication_year": 2008,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Информационная система поддержки врачебных решений (доклад)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Афанасьева А.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Труды IX Межд. научн.-техн. конф.: Актуальные пробл. электронного приборостр. -АПЭП-2008.–Новосибирск, 2008.-Т.2. - С. 104-107",
+        "publication_year": 2008,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Построение кривой обеспеченности при учете влияния интервала измеряемых величин (доклад)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ботвинков И.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Материалы научн.-тех. конф. проф.-препод. состава: Водный транспорт России вчера, сегодня, завтра. – Новосибирск, НГАВТ, 2009. - С. 42-43.",
+        "publication_year": 2009,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Компьютерное моделирование построения изобат при изысканиях на ВВП (доклад)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Материалы научн.-тех. конф. проф.-препод. состава: Водный транспорт России вчера, сегодня, завтра. – Новосибирск, НГАВТ, 2009. - С. 38-40.",
+        "publication_year": 2009,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Компьютерное моделирование процесса изысканий на ВВП (доклад)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Материалы научн.-тех. конф. проф.-препод. состава: Водный транспорт России вчера, сегодня, завтра. – Новосибирск, НГАВТ, 2009. - С. 48-50.",
+        "publication_year": 2009,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Некоторые аспекты построения адаптируемого входного преобразователя  информационно-измерительных систем (доклад)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Пасынков Ю.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Труды международной конференции «Идентификация, измерения и имитация случайных сигналов – ИИИ-2009». – НГТУ. – Новосибирск, 2009. С.22-26",
+        "publication_year": 2009,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Информационная система поддержки принятия решений для диспетчера технического участка внутренних водных путей (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Тюменцев А.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Мещерякова Ю.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сибирский научный вестник.-2010.- 2010.- Вып. 13. - С. 234-240.",
+        "publication_year": 2010,
+        "count_of_pages": "7",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Информационная поддержка водных изысканий (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ботвинков В.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ботвинков А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сибирский научный вестник.- 2010.- Вып. 14. - С. 199-205.",
+        "publication_year": 2010,
+        "count_of_pages": "6",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Оценка факторов наследственности в экспертных системах (статья)",
+        "authors": [
+            {
+                "fio": "Афанасьева А.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сибирский научный вестник.-2010.- Вып. 14. - С. 206-208.",
+        "publication_year": 2010,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Информационно-методическое обеспечение изыскательских работ на внутренних водных путях на основе пространственно-спектрального подхода (доклад)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ботвинков А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Тюменцев А.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Труды X Межд. научн.-техн. конф.: Актуальные пробл. электронного приборостр. -АПЭП-2010.–Новосибирск, 2010.-Т.3. – С. 149-153.",
+        "publication_year": 2010,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Структуризация знаний для систем поддержки принятия врачебных решений (доклад)",
+        "authors": [
+            {
+                "fio": "Афанасьева А.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "X Межд. научн.-техн. конф.: Актуальные пробл. электронного приборостр. -АПЭП-2010.–Новосибирск, 2010.-Т.5. - С. 106-109.",
+        "publication_year": 2010,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Пространственно-спектральный подход в информационном обосновании требований к изыскательским работам на ВВП (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ботвинков А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Тюменцев А.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Абдрашев А.Р.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Речной транспорт.-2010.-№.4 С.75-81",
+        "publication_year": 2010,
+        "count_of_pages": "7",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Компьютерное моделирование дноуглубительных работ на основе метода Монте-Карло (доклад)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ботвинков В.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ботвинков А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Материалы международной юбилейной научно-практической конференции «Обновление флота – актуальная проблема водного транспорта на современном этапе»,- НГАВТ. – 2011. – С.118-124",
+        "publication_year": 2011,
+        "count_of_pages": "6",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Анализ диссипативных систем методом нелинейного программирования (доклад)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ботвинков А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Лапай А.Ю.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Труды X Межд. научн.-техн. конф.: Актуальные пробл. электронного приборостр. - АПЭП-2012.–Новосибирск, 2012.-Т.6. С.77-80",
+        "publication_year": 2012,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Процесс принятия решения в слабоструктурированных информационных системах (доклад)",
+        "authors": [
+            {
+                "fio": "Марченко А.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Труды X Межд. научн.-техн. конф.: Актуальные пробл. электронного приборостр. - АПЭП-2012.–Новосибирск, 2012.-Т.5. с.124-126",
+        "publication_year": 2012,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Программный модуль расчета параметров сечения русла реки для информационной системы водных изысканий (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ботвинков А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ботвинков В.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Научные проблемы транспорта Сибири и Дальнего Востока. 2012. № 1. С.155-158",
+        "publication_year": 2012,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Программный модуль для расчета распределения расходов и построения свободной поверхности в многорукавном участке реки (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ботвинков А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ботвинков В.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Научные проблемы транспорта Сибири и Дальнего Востока. 2012. № 1. С.158-162",
+        "publication_year": 2012,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Информационная система оперативного контроля исполнения документов (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Юртаев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Сараева Е.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сибирский научный вестник,- 2012, вып.16. С.291-295",
+        "publication_year": 2012,
+        "count_of_pages": "6",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Имитационное моделирование системы измерения угловых перемещений на основе светочувствительной матрицы (доклад)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Шевченко А.О.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Научно.практ. конф. проф.препод. состава НГАВТ «Проблемы и перспективы инновационного развития транспорта».- НГАВТ, Новосибирск,-2013 С.172-176",
+        "publication_year": 2013,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Метод расчета характеристик экранирования объектов при воздействии полигармонических электромагнитных полей (доклад)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Эдвабник В.Г.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Труды XII Межд. научн.-техн. конф.: Актуальные пробл. электронного приборостр. -АПЭП-2014.–Новосибирск, 2014.-Т.3. С.201-204",
+        "publication_year": 2014,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Method of calculation of characteristics of shielding of objects at influence of the polyharmonic  electromagnetic  fields (доклад)",
+        "authors": [
+            {
+                "fio": "N.V.Golyshev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "N.V.Golyshev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "V.G.Idvabnic",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "2014 12TN International Conference on Actual Problems of Electronic Instrument engineering Proceedings.- APEIE-2014.- Novosibirsk, 2014.-V.1. -P.293-296.",
+        "publication_year": 2014,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Программный модуль для расчета и анализа локальных параметров русла на примере Обского бассейна (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ботвинков В.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Седых В.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ботвинков А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Научные проблемы транспорта Сибири и Дальнего Востока. 2014. № 3. С. 86-93",
+        "publication_year": 2014,
+        "count_of_pages": "8",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Некоторые аспекты предварительной обработки информационного потока данных системы построения изобат при русловых изысканиях  (доклад)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Демин В.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Научно.практ. конф. «Роль науки в развитии морского образования».- НГАВТ, Новосибирск, 2015.-Ч.II, с. 134-139",
+        "publication_year": 2015,
+        "count_of_pages": "6",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Рекуррентное оценивание моментов случайных последовательностей фильтром Кальмана (доклад)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Материалы VI Межд. научн.-практ. конф.: Информ. технологии, системы и приборы в АПК. -АГРОИНФО-2015.–Новосибирск, 2015.-Ч.2., с.177-184",
+        "publication_year": 2015,
+        "count_of_pages": "8",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Метод повышения разрешающей способности аналого-цифрового преобразователя (доклад)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ютман Э.Ю.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Труды XIII Межд. научн.-техн. конф.: Актуальные пробл. электронного приборостр. - АПЭП-2016. – Новосибирск, 2016.-Т.2. – С.170-174",
+        "publication_year": 2016,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "A method of increasing the resolution of the analog-to-digital converter (доклад)",
+        "authors": [
+            {
+                "fio": "N.V.Golyshev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "E.IU.Iutman",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "13TN International Conference on Actual Problems of Electronic Instrument engineering Proceedings.- APEIE-2016.- Novosibirsk, 2016. - V.1. -P.113-117.",
+        "publication_year": 2016,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Имитационная модель АЦП с регулируемой разрешающей способностью (доклад - статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ютман Э.Ю.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Материалы VII Междунар. научно-практ. конф. «Актуальные вопросы современных исследований». 2017. Научный центр «Дельта», Омск, - «Научно-практические исследования», № 7 – С.27-34",
+        "publication_year": 2017,
+        "count_of_pages": "8",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Разработка и исследование аналитической модели АЦП с дискретным усреднением сигнала на выходе (доклад - статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ютман Э.Ю.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Материалы VII Междунар. научно-практ. конф. «Актуальные вопросы современных исследований». 2017. Научный центр «Дельта», Омск, - «Научно-практические исследования», № 7 – С.35-41",
+        "publication_year": 2017,
+        "count_of_pages": "7",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "WEB-ориентированное программное обеспечение для оцифровки данных с бумажного носителя (доклад)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Артамонов А.Ю.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Материалы научно-практ. конф. проф.-препод. состава университета «Арктика – Экология – Транспорт». СГУВТ.: -  2017.- С.165-169",
+        "publication_year": 2017,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Сравнительный анализ методов расчета трансформации гидрографов стока на основе модели участка реки с сосредоточенными параметрами",
+        "authors": [
+            {
+                "fio": "Голышев Н.В",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Материалы научно-практ. конф. проф.-препод. состава университета «Арктика – Экология – Транспорт». СГУВТ.: -  2017.- С.79-81",
+        "publication_year": 2017,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Проблемы преподавания непрофильных направлений на рубеже 20-х годов 21 столетия",
+        "authors": [
+            {
+                "fio": "Голышев Н.В",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Материалы национальной научно-практ. конф. «Водный транспорт – перспективы повышения конкурентноспособности». СГУВТ.: -  2019.- С.346-349",
+        "publication_year": 2019,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Влияние вдоль береговых инженерных сооружений на русловой процесс и судоходные условия",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Седых Н.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Материалы научно-практ. конф. проф.-препод. состава университета «Арктика – Экология – Транспорт». СГУВТ.: -  2017.- С.81-83",
+        "publication_year": 2017,
+        "count_of_pages": "3",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Основные научные направления деятельности научно-исследовательской лаборатории «Безопасность жизнедеятельности на внутренних водных путях»",
+        "authors": [
+            {
+                "fio": "Ботвинков В.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Седых В.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Материалы научно-практ. конф. проф.-препод. состава университета «Арктика – Экология – Транспорт». СГУВТ.: -  2017.- С.43-46",
+        "publication_year": 2017,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Краткосрочный прогноз уровней гидрологического ряда на основе нейронной сети (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Зуева А.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Научные проблемы транспорта Сибири и Дальнего Востока. 2017. № 2. С. 63-67",
+        "publication_year": 2017,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Программный модуль разработки нейросетевых реализаций таблично заданных функций (статья)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Панич Е.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Научные проблемы транспорта Сибири и Дальнего Востока. 2018. - № 2. - С. 293-300",
+        "publication_year": 2018,
+        "count_of_pages": "7",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Development of functions approximating tabular data on the basis of neural networks (статья)",
+        "authors": [
+            {
+                "fio": "N.V.Golyshev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "E.A.Panich",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "14TN International Conference on Actual Problems of Electronic Instrument engineering Proceedings.- APEIE-2018.- Novosibirsk, 2018.- V.1. - P.405-408.",
+        "publication_year": 2018,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Применение методов расчета электротехнических цепей для решения задачи о распределении расходов по рукавам (тезисы)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ботвинков А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Материалы XI Всеросийской научно-техн. конф.: Информационные технологии в электротехнике и электроэнергетике. - Чебоксары, 2018.  - С.91-92.",
+        "publication_year": 2018,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Разработка функций, аппроксимирующих табличные данные, на основе нейронных сетей (доклад)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Панич Е.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Труды XIV Межд. научн.-техн. конф.: Актуальные пробл. электронного приборостр. - АПЭП-2018. – Новосибирск, 2018. - Т. 11 . – С.107-110",
+        "publication_year": 2018,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Математическая модель не требующая аналитических выражений для расчета шумовых параметров первичных преобразователей (доклад)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Клименко С.Ф.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Материалы XII Всероссийской научно-тех. конф.: «Информационные технологии в электротехнике и электроэнергетике». ИИТЭ-2020. – Чебоксары, 2020. - С.112-116",
+        "publication_year": 2020,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Программное обеспечение расчета шумовых параметров первичных преобразователей (доклад)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Клименко С.Ф.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Материалы XII Всероссийской научно-тех. конф.: «Информационные технологии в электротехнике и электроэнергетике». - ИИТЭ-2020. – Чебоксары, 2020. - С.121-125",
+        "publication_year": 2020,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Расчет эффективности систем массового обслуживания с ограниченным временем пребывания заявок в очереди. Программный модуль (доклад)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Международная научно-практическая конференция: New Science Generation. - Международный центр научного партнерства «Новая наука». Петрозаводск, 2020. – С.83-96",
+        "publication_year": 2020,
+        "count_of_pages": "14",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Модернизация системы сбора и обработки гидродинамических данных опытового бассейна. модуль программного обеспечения",
+        "authors": [
+            {
+                "fio": "Исаков В.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Интеллектуальный потенциал Сибири. Сб. науч. Труд. 29-ой РНСК, посв. Году науки и технологии в России. В 5-ти частях. Под редакцией Д.О. Соколовой. Новосибирск, 2021. С. 274-275",
+        "publication_year": 2021,
+        "count_of_pages": "2",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Разработка универсальной методики расчета электромагнитных экранов для бортовой аппаратуры",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Материалы XIV Всероссийской научно-тех. конф. Динамика нелинейных дискретных электротехнических и электронных систем. - ЧГУ им. И.Н. Ульянова. Чебоксары, 2021. С. 204-207.",
+        "publication_year": 2021,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Расчет распределения потоков в руслах",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сб. статей IV Межд. научно-практ. Конф.: Инновационный дискурс развития современной науки., Петрозаводск, 2021. С. 20-28.",
+        "publication_year": 2021,
+        "count_of_pages": "9",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Электронный фонендоскоп для оценки состояния системы органов дыхания",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Зуева А.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сб. статей V Межд. научно-практ. Конф.: Передовое развитие современной науки как драйвер роста экономики и социальной сферы., Петрозаводск, 2021. С. 10-17.",
+        "publication_year": 2021,
+        "count_of_pages": "8",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Анализ методов локализации источников маг-нитного поля в биомагнитных исследованиях",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Автометрия. 2022. Т. 58. № 2. С. 37-45.",
+        "publication_year": 2022,
+        "count_of_pages": "9",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Органайзер для больных диабетом",
+        "authors": [
+            {
+                "fio": "Жаров А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Антонова Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Качаков Д.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сб. избр. статей по материалам Межд. науч. конф.: Наука. Исследования. Практика., Санкт-Петербург, 2022. С. 99-102.",
+        "publication_year": 2022,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Интерактивное web-приложение для оперативной проверки программного кода",
+        "authors": [
+            {
+                "fio": "Вакуленко А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Бускин А.К.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Охрямкин С.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сб. избр. статей по материалам Межд. науч. конф.: Наука. Исследования. Практика., Санкт-Петербург, 2022. С. 95-99.",
+        "publication_year": 2022,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Защищенный мобильный коммуникатор студент-куратор",
+        "authors": [
+            {
+                "fio": "Ботвинков А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Лысяк К.С",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сб. избр. статей по материалам Межд. науч. конф.: Наука. Исследования. Практика., Санкт-Петербург, 2022. С. 92-95.",
+        "publication_year": 2022,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Математическое моделирование ферромаг-нитных экранов для бортовой аппаратуры",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Материалы XIII всероссийской науч. тех. конф.: Информационные технологии в электротехнике и электроэнергетике.,  Чебоксары, 2022. С. 62-66.",
+        "publication_year": 2022,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Сравнительный анализ построения изобат по математической модели на равномерной сетке при неравномерной траектории треков",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сб. избр. статей по материалам Межд. науч. конф.: Наука. Исследования. Практика., Санкт-Петербург, 2022. С. 50-53.",
+        "publication_year": 2022,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Analysis of Methods for Localization Magnetic Field Sources in Biomagnetic Studies",
+        "authors": [
+            {
+                "fio": "N.V.Golyshev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "D.N.Golyshev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Optoelectronics, Instrumentation and Data Processing.-2022.vol.58,-№ 2, pp.139-146.",
+        "publication_year": 2022,
+        "count_of_pages": "8",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Система сбора и обработки данных публика-ционной активности преподавателей универ-ситета",
+        "authors": [
+            {
+                "fio": "Филей В.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин А.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Заметки ученого. 2023. № 4. С. 42-46.",
+        "publication_year": 2023,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Автоматизация редакционно-издательской деятельности университета",
+        "authors": [
+            {
+                "fio": "Калякина Д.П.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Долгодворов С.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Заметки ученого. 2023. № 3. С. 171-175.",
+        "publication_year": 2023,
+        "count_of_pages": "5",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Методика численного расчета водного потока на многоузловых участках рек",
+        "authors": [
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Ботвинков А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Инженерный вестник Дона. 2023. № 2 (98). С. 632-640.",
+        "publication_year": 2023,
+        "count_of_pages": "9",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Создание информационной системы карт экологически уязвимых зон",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Калинина Е.А.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Научные проблемы транспорта Сибири и Дальнего Востока. 2023. № 1. С. 142-149.",
+        "publication_year": 2023,
+        "count_of_pages": "8",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Пространственно-спектральное описание токового диполя как источника магнитного поля сердца",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Автометрия. 2023. Т. 59. № 3. С. 24-32.",
+        "publication_year": 2023,
+        "count_of_pages": "9",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Мобильная информационная система опера-тивного мониторинга проблем на дорогах",
+        "authors": [
+            {
+                "fio": "Зыков А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Сб. статей XVI Межд. науч.-практ. конф.: Инновационный дискурс развития современной науки.,  Петрозаводск, 2023. С. 46-56.",
+        "publication_year": 2023,
+        "count_of_pages": "11",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Spatiospectral Description of Current Dipole as a Source of the Magnetic field of the Heart",
+        "authors": [
+            {
+                "fio": "N.V.Golyshev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "D.N.Golyshev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Optoelectronics, Instrumentation and Data Processing.-2023.vol.59,-№ 3, pp.24-32.",
+        "publication_year": 2023,
+        "count_of_pages": "9",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Расчет  влияния  замкнутого  экрана на  катушку  индуктивности",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Материалы XIV Всероссийской научно-тех. конф. Динамика нелинейных дискретных электротехнических и электронных систем. - ЧГУ им. И.Н. Ульянова. Чебоксары, 2023. С.178-182.",
+        "publication_year": 2023,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Оценка сопротивления и индуктивности вносимых в катушку индуктивности замкнутым экраном",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Д.Н.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Материалы XIV Всероссийской научно-тех. конф. Динамика нелинейных дискретных электротехнических и электронных систем. - ЧГУ им. И.Н. Ульянова. Чебоксары, 2023. С.182-186.",
+        "publication_year": 2023,
+        "count_of_pages": "4",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "в) патенты на изобретения, авторские свидетельства, сертификаты",
+        "authors": [
+            {
+                "fio": "в) патенты на изобретения",
+                "relationship_type": 1
+            },
+            {
+                "fio": "авторские свидетельства",
+                "relationship_type": 1
+            },
+            {
+                "fio": "сертификаты",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "в) патенты на изобретения, авторские свидетельства, сертификаты",
+        "publication_year": null,
+        "count_of_pages": "в) патенты на изобретения, авторские свидетельства, сертификаты",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Автокомпенсатоp помех промыш-ленной частоты в свеpхpовод-никовом магнитометpе  (авт.свид.)",
+        "authors": [
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "№ 1155065 СССР, МКИ3  G 01 R 33/00 Заявл. 13.01.84.",
+        "publication_year": null,
+        "count_of_pages": "10",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Способ измеpения гpадиента индукции маг-нитного поля и свеpхпpоводниковое устpой-ство для из-меpения гpадиента индукции магнитного поля (авт.свид.)",
+        "authors": [
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "№ 1316410 СССР, МКИ3  G 01 R 33/00 / Заявл. 23.05.85",
+        "publication_year": null,
+        "count_of_pages": "8",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Работка метода повышения разрешающей Сверхпроводниковый квантовый интерференционный датчик (авт.свид)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "А.С. № 1400297 СССР, МКИ3  G 01 R 33/00 Заявл. 09.06.86.",
+        "publication_year": null,
+        "count_of_pages": "7",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Способ измерения градиента индукции магнитного поля (авт.свид.)",
+        "authors": [
+            {
+                "fio": "Гринберг Я.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "АС № 1443597 СССР, МКИ3  G 01 R 33/00 Заявл. 10.03.87.",
+        "publication_year": null,
+        "count_of_pages": "7",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Способ настройки сверхпроводникового квантового интерференционного датчика (авт.свид.)",
+        "authors": [
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "А.С. № 1626882 СССР, МКИ3 G 01 R3 3/00 Заявл. 05.10.88.",
+        "publication_year": null,
+        "count_of_pages": "6",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Диплом за первое место Академии медико-технических наук (диплом)",
+        "authors": [
+            {
+                "fio": "Гринберг Я.С.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Голышев Н.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Рогачевский Б.М.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Шабалин А.В.",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "Региональный конкурс на лучшую разработку в области медицинской техники. СО АМТН -Новосибирск.-1996.",
+        "publication_year": 1996,
+        "count_of_pages": "1",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "Certificate of I degree to at the paper, “Method for suppression of magnetic interferences of industrial frequencies in super-conductive systems (диплом)",
+        "authors": [
+            {
+                "fio": "N.V.Golyschev",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "The IEEE Section APEIE-96, “Measurements in Radio  Electronics“. Novosibirsk Chapter (Russia),1996.",
+        "publication_year": 1996,
+        "count_of_pages": "1",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    },
+    {
+        "title": "ВСЕГО с 1976 г. более 217 статей, докладов, АС, сертификатов, учебных и учебно-методических пособий",
+        "authors": [
+            {
+                "fio": "ВСЕГО с 1976 г. более 217 статей",
+                "relationship_type": 1
+            },
+            {
+                "fio": "докладов",
+                "relationship_type": 1
+            },
+            {
+                "fio": "АС",
+                "relationship_type": 1
+            },
+            {
+                "fio": "сертификатов",
+                "relationship_type": 1
+            },
+            {
+                "fio": "учебных и учебно-методических пособий",
+                "relationship_type": 1
+            },
+            {
+                "fio": "Моторин С.В.",
+                "relationship_type": 1
+            }
+        ],
+        "theme": null,
+        "journal_publisher": "ВСЕГО с 1976 г. более 217 статей, докладов, АС, сертификатов, учебных и учебно-методических пособий",
+        "publication_year": 1976,
+        "count_of_pages": "ВСЕГО с 1976 г. более 217 статей, докладов, АС, сертификатов, учебных и учебно-методических пособий",
+        "publication_type": null,
+        "rating": null,
+        "department": null
+    }
+]

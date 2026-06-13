@@ -1,0 +1,129 @@
+.container {
+  background: #fff;
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow: rgba(100, 100, 111, 0.1) 0px 7px 29px 0px;
+  width: 280px;
+  overflow: hidden;
+  max-height: 180px; 
+  transition: max-height 400ms ease-in-out, opacity 400ms ease-in-out;
+}
+
+.title {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: #003366;
+}
+
+.filterGroup {
+  margin-bottom: 12px;
+  position: relative;
+  width: 100%;
+  text-align: center;
+  transition: transform 400ms ease-in-out, opacity 400ms ease-in-out;
+}
+
+.filterGroupForm16 {
+  margin-bottom: 10px;
+  transition: transform 400ms ease-in-out, opacity 400ms ease-in-out;
+}
+
+.filterGroupDepartment {
+  transition: transform 400ms ease-in-out, opacity 400ms ease-in-out;
+}
+
+.buttomconteiner {
+  margin-top: 10px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: transform 400ms ease-in-out, opacity 400ms ease-in-out;
+}
+
+.container.collapsed {
+  max-height: 179px;
+}
+
+.container.expandedList {
+  max-height: 179px; /* Открыт "Списком" */
+}
+
+.container.expandedForm16 {
+  max-height: 345px; /* Открыта "Форма №16" */
+}
+
+.container.expandedSurname {
+  max-height: 370px; /* Открыта "По фамилии" */
+}
+
+.container.expandedDepartment {
+  max-height: 370px; /* Открыта "По кафедре" */
+}
+
+.container.expandedListForm16 {
+  max-height: 410px; /* "Списком" + "Форма №16" */
+}
+
+.container.expandedListSurname {
+  max-height: 450px; /* "Списком" + "По фамилии" */
+}
+
+.container.expandedForm16Surname {
+  max-height: 425px; /* "Форма №16" + "По фамилии" */
+}
+
+.container.expandedForm16Department {
+  max-height: 450px; /* "Форма №16" + "По кафедре" */
+}
+
+.container.expandedAll {
+  max-height: 490px; /* Все меню открыты */
+}
+
+.dropdownEnter {
+  opacity: 0;
+  transform: scaleY(0.8);
+}
+
+.dropdownEnterActive {
+  opacity: 1;
+  transform: scaleY(1);
+  transition: opacity 400ms ease-in-out, transform 400ms ease-in-out;
+}
+
+.dropdownExit {
+  opacity: 1;
+  transform: scaleY(1);
+}
+
+.dropdownExitActive {
+  opacity: 0;
+  transform: scaleY(0.8);
+  transition: opacity 400ms ease-in-out, transform 400ms ease-in-out;
+}
+
+.dropdownMenu {
+  display: flex;
+  flex-direction: column;
+  border-radius: 4px;
+  padding: 10px;
+  transform-origin: top;
+  backface-visibility: hidden;
+}
+
+button[data-active="true"] {
+  background-color: #003366 !important;
+  color: white !important;
+  transition: background-color 400ms ease-in-out, color 400ms ease-in-out !important;
+  transform: translateZ(0);
+  border: 0px solid transparent;
+}
+
+button[data-active="true"]:hover {
+  transform: none !important;
+  background-color: #003366 !important;
+  color: white !important;
+}
+

@@ -1,0 +1,220 @@
+.container {
+  margin: 20px auto;
+  width: 1200px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #fcfdfd;
+  box-shadow: rgba(100, 100, 111, 0.1) 0px 7px 29px 0px;
+
+}
+
+.loadingContainer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 9999;
+  color: white;
+  font-size: 18px;
+  text-align: center;
+}
+
+.toptext {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  align-items: center;
+  text-align: center;
+}
+
+.toptext h1 {
+  margin-bottom: 10px;
+}
+
+.toptext h3 {
+  color: #1c222b;
+  font-weight: 500;
+}
+
+.toptext p {
+  color: #64748B;
+  font-weight: 500;
+  font-size: 14px;
+  margin-top: 0;
+}
+
+
+.buttomcontainer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center; 
+}
+
+.linkButton {
+  text-decoration: none;
+}
+
+.formGroup {
+  margin: 40px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.input,
+.select {
+  padding: 8px 12px 8px 12px;
+  height: 40px;
+  width: 70%;
+  padding: 8px;
+  border: 1px solid #CBD5E1;
+  border-radius: 6px;
+}
+
+.inputGroup {
+  display: flex;
+  align-items: center;
+}
+
+.toggleContainer {
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Montserrat", sans-serif; /* Шрифт для контейнера */
+  padding: 8px;
+  height: 50px;
+  border: 1px solid #cbd5e1;
+  border-radius: 10px;
+  font-weight: 500; /* Используем стандартное значение */
+  font-size: 15px;
+  width: 400px;
+  overflow: hidden;
+}
+
+.toggleSlider {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50%;
+  height: 100%;
+  background-color: #003366;
+  border-radius: 8px;
+  border: 1px solid #cbd5e1;
+  transition: transform 0.3s ease-in-out;
+}
+
+.toggleButton {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: 700; 
+  font-family: "Montserrat", sans-serif; 
+  z-index: 1;
+  
+}
+.toggleButton.active {
+  color: #ffffff;
+}
+
+.fileInputContainer {
+  display: flex;
+  width: 70%;
+  height: 40px;
+  border: 1px solid #CBD5E1;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.fileNameInput {
+  flex: 1;
+  padding: 8px 12px;
+  border: none;
+  outline: none;
+  background: transparent;
+  font-size: 14px;
+}
+
+.fileInputButton {
+  position: relative;
+  width: 100px;
+  border-left: 1px solid #CBD5E1;
+}
+
+.hiddenFileInput {
+  display: none;
+}
+
+.customFileButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  background: #f8fafc;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  color: #1e293b;
+  transition: background 0.2s;
+}
+
+.customFileButton:hover {
+  background: #f1f5f9;
+}
+
+.errorMessage {
+  color: #d60000;
+  font-size: 12px;
+  margin-top: 4px;
+}
+
+.fileNameWrapper {
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.removeIcon {
+  stroke: #B00000;
+  position: absolute;
+  right: 10px;
+  cursor: pointer;
+  transition: stroke 0.3s ease;
+  stroke-linecap: round;
+}
+
+.removeIcon:hover  {
+  stroke: #d60000;
+  transform: scale(1.2); 
+}
+
+.cross {
+  stroke-dasharray: 14;
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.3s ease, opacity 0.3s ease;
+}
+
+

@@ -1,0 +1,122 @@
+.cross {
+    stroke: #B00000;
+    stroke-width: 2;
+    transition: stroke-dashoffset 0.3s ease, opacity 0.3s ease;
+    stroke-linecap: round;
+    stroke-dasharray: 14;
+    stroke-dashoffset: 14;
+    opacity: 0;
+}
+
+.errorCheck input:checked+svg .cross {
+    stroke-dashoffset: 0;
+}
+
+.check {
+    cursor: pointer;
+    position: relative;
+    margin: auto;
+    width: 18px;
+    height: 18px;
+    -webkit-tap-highlight-color: transparent;
+    transform: translate3d(0, 0, 0);
+}
+
+.hiddenCheckbox {
+    display: none;
+}
+
+.check:before {
+    content: "";
+    position: absolute;
+    top: -15px;
+    left: -15px;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    opacity: 0;
+    transition: opacity 0.2s ease;
+}
+
+svg {
+    position: relative;
+    z-index: 1;
+    fill: none;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke: #C8CCD4;
+    stroke-width: 1.5;
+    transform: translate3d(0, 0, 0);
+    transition: all 0.2s ease;
+}
+
+path {
+    stroke-dasharray: 60;
+    stroke-dashoffset: 0;
+    transition: stroke-dashoffset 0.3s linear;
+}
+
+polyline {
+    stroke-dasharray: 22;
+    stroke-dashoffset: 66;
+    transition: stroke-dashoffset 0.2s linear;
+}
+
+.check:hover:before {
+    opacity: 1;
+}
+
+
+.check:hover svg {
+    stroke: #808080;
+}
+
+
+.check:hover input:checked+svg,
+input:checked+svg:hover {
+    stroke: #003366;
+}
+
+.check:hover input:checked+svg:hover {
+    stroke: #003366;
+}
+
+.parsingCheck input:checked + svg {
+    stroke: #003366 !important; /* Синий */
+}
+
+input:checked+svg path {
+    stroke-dashoffset: 60;
+}
+
+input:checked+svg polyline {
+    stroke-dashoffset: 42;
+    transition-delay: 0.15s;
+}
+
+input:not(:checked)+svg path {
+    stroke-dashoffset: 0;
+}
+
+input:not(:checked)+svg polyline {
+    stroke-dashoffset: 66;
+    transition-delay: 0s;
+}
+
+.errorCheck input:checked+svg .cross {
+    stroke-dashoffset: 0;
+    opacity: 1;
+}
+
+.errorCheck input:not(:checked)+svg .cross {
+    stroke-dashoffset: 14;
+    opacity: 0;
+}
+
+.errorCheck svg {
+    stroke: #B00000 !important;
+}
+
+.errorCheck:hover svg {
+    stroke: #d60000 !important;
+}

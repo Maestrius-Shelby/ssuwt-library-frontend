@@ -1,0 +1,1 @@
+export const selectBackendError = (state) => state.backendError.message;
